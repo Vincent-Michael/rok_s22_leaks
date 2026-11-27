@@ -1,0 +1,55 @@
+name: Deploy S22 Datamine Guide
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      ready: ${{ steps.stage.outputs.ready }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepare site without Unity bundles
+        id: stage
+        shell: bash
+        run: |
+          mkdir -p _site
+          if [[ -f index.html ]]; then
+            rsync -a --exclude='.git' --exclude='.github' --exclude='_site' --exclude='*.[lL][bB]' --exclude='*.zip' ./ _site/
+          elif [[ -f s22-site.zip ]]; then
+            unzip -q s22-site.zip -d _site
+            if [[ -f s22-media.zip ]]; then unzip -oq s22-media.zip -d _site; fi
+          else
+            echo "Site not uploaded yet"
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          find _site -type f -iname '*.lb' -delete
+          test -f _site/index.html
+          touch _site/.nojekyll
+          echo "ready=true" >> "$GITHUB_OUTPUT"
+      - uses: actions/configure-pages@v5
+        if: steps.stage.outputs.ready == 'true'
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.stage.outputs.ready == 'true'
+        with:
+          path: _site
+  deploy:
+    needs: build
+    if: needs.build.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
