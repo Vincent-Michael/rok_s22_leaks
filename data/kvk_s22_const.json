@@ -1,0 +1,528 @@
+{
+  "source": "exceldata_1114.bin",
+  "md5": "42fa896a844ac797250f0cf7c7d99840",
+  "sha256": "127cd0c054ef42aeafbe7cf1212367240b9af1e2890eb6242caab6dcdf31d9b4",
+  "table": "kvk_s22_const",
+  "metadata": {
+    "offset": 2439636,
+    "flag": 0,
+    "dict_size": 1524,
+    "dict_start": 2439657,
+    "dict_compressed": 390,
+    "row_size": 680,
+    "row_start": 2440047,
+    "row_compressed": 405
+  },
+  "fields": [
+    {
+      "name": "ID",
+      "type": 0
+    },
+    {
+      "name": "Key",
+      "type": 2
+    },
+    {
+      "name": "ZoneX",
+      "type": 2
+    },
+    {
+      "name": "Value",
+      "type": 0
+    }
+  ],
+  "rows": [
+    {
+      "ID": 1,
+      "Key": "siege_ladder_troop_num",
+      "ZoneX": "all",
+      "Value": 20
+    },
+    {
+      "ID": 2,
+      "Key": "siege_ladder_troop_cap",
+      "ZoneX": "all",
+      "Value": 300000000
+    },
+    {
+      "ID": 3,
+      "Key": "siege_ladder_as_build_limit",
+      "ZoneX": "all",
+      "Value": 4
+    },
+    {
+      "ID": 4,
+      "Key": "siege_ladder_hp_max",
+      "ZoneX": "all",
+      "Value": 20000
+    },
+    {
+      "ID": 5,
+      "Key": "siege_ladder_deploy_sec",
+      "ZoneX": "all",
+      "Value": 10
+    },
+    {
+      "ID": 6,
+      "Key": "siege_ladder_destroy_cooldown_sec",
+      "ZoneX": "all",
+      "Value": 900
+    },
+    {
+      "ID": 7,
+      "Key": "siege_ladder_move_speed",
+      "ZoneX": "all",
+      "Value": 100
+    },
+    {
+      "ID": 8,
+      "Key": "siege_ladder_hp_lost_max",
+      "ZoneX": "all",
+      "Value": 400
+    },
+    {
+      "ID": 9,
+      "Key": "siege_ladder_boarding_sec",
+      "ZoneX": "all",
+      "Value": 5
+    },
+    {
+      "ID": 10,
+      "Key": "siege_ladder_sq_radius",
+      "ZoneX": "all",
+      "Value": 500
+    },
+    {
+      "ID": 11,
+      "Key": "siege_ladder_hp_lost",
+      "ZoneX": "all",
+      "Value": 20000000
+    },
+    {
+      "ID": 12,
+      "Key": "siege_building_hp_max",
+      "ZoneX": "all",
+      "Value": 90000
+    },
+    {
+      "ID": 13,
+      "Key": "siege_building_hp_lost",
+      "ZoneX": "all",
+      "Value": 20000000
+    },
+    {
+      "ID": 14,
+      "Key": "siege_building_hp_lost_max",
+      "ZoneX": "all",
+      "Value": 400
+    },
+    {
+      "ID": 15,
+      "Key": "siege_building_build_sec",
+      "ZoneX": "all",
+      "Value": 600
+    },
+    {
+      "ID": 16,
+      "Key": "siege_ladder_build_range",
+      "ZoneX": "all",
+      "Value": 30
+    },
+    {
+      "ID": 17,
+      "Key": "siege_capital_hp_max",
+      "ZoneX": "all",
+      "Value": 160000
+    },
+    {
+      "ID": 18,
+      "Key": "siege_capital_hp_lost",
+      "ZoneX": "all",
+      "Value": 20000000
+    },
+    {
+      "ID": 19,
+      "Key": "siege_capital_hp_lost_max",
+      "ZoneX": "all",
+      "Value": 400
+    },
+    {
+      "ID": 20,
+      "Key": "siege_dynamic_pass_hp_max",
+      "ZoneX": "all",
+      "Value": 120000
+    },
+    {
+      "ID": 21,
+      "Key": "siege_dynamic_pass_hp_lost",
+      "ZoneX": "all",
+      "Value": 20000000
+    },
+    {
+      "ID": 22,
+      "Key": "siege_dynamic_pass_hp_lost_max",
+      "ZoneX": "all",
+      "Value": 400
+    },
+    {
+      "ID": 23,
+      "Key": "siege_dynamic_pass_protection_recover_bp",
+      "ZoneX": "all",
+      "Value": 1500
+    },
+    {
+      "ID": 24,
+      "Key": "siege_city_pve_declaration_sec",
+      "ZoneX": "all",
+      "Value": 60
+    },
+    {
+      "ID": 25,
+      "Key": "siege_city_pvp_declaration_sec",
+      "ZoneX": "all",
+      "Value": 300
+    },
+    {
+      "ID": 26,
+      "Key": "siege_city_level_one_siege_sec",
+      "ZoneX": "all",
+      "Value": 3600
+    },
+    {
+      "ID": 27,
+      "Key": "siege_city_level_two_siege_sec",
+      "ZoneX": "all",
+      "Value": 7200
+    },
+    {
+      "ID": 28,
+      "Key": "siege_city_pve_level_one_protection_sec",
+      "ZoneX": "all",
+      "Value": 600
+    },
+    {
+      "ID": 29,
+      "Key": "siege_city_pve_level_two_protection_sec",
+      "ZoneX": "all",
+      "Value": 600
+    },
+    {
+      "ID": 30,
+      "Key": "siege_city_pvp_level_one_protection_sec",
+      "ZoneX": "all",
+      "Value": 600
+    },
+    {
+      "ID": 31,
+      "Key": "siege_city_pvp_level_two_protection_sec",
+      "ZoneX": "all",
+      "Value": 600
+    },
+    {
+      "ID": 32,
+      "Key": "siege_city_occupation_extra_protection_sec",
+      "ZoneX": "all",
+      "Value": 3000
+    },
+    {
+      "ID": 33,
+      "Key": "siege_building_type_cap_level_one",
+      "ZoneX": "all",
+      "Value": 1
+    },
+    {
+      "ID": 34,
+      "Key": "siege_building_type_cap_level_two",
+      "ZoneX": "all",
+      "Value": 2
+    },
+    {
+      "ID": 35,
+      "Key": "siege_portal_type_cap_level_one",
+      "ZoneX": "all",
+      "Value": 2
+    },
+    {
+      "ID": 36,
+      "Key": "siege_portal_type_cap_level_two",
+      "ZoneX": "all",
+      "Value": 4
+    },
+    {
+      "ID": 37,
+      "Key": "siege_declaration_points_initial",
+      "ZoneX": "all",
+      "Value": 100
+    },
+    {
+      "ID": 38,
+      "Key": "siege_declaration_points_capacity",
+      "ZoneX": "all",
+      "Value": 600
+    },
+    {
+      "ID": 39,
+      "Key": "siege_declaration_points_level_one_cost",
+      "ZoneX": "all",
+      "Value": 100
+    },
+    {
+      "ID": 40,
+      "Key": "siege_declaration_points_level_two_cost",
+      "ZoneX": "all",
+      "Value": 200
+    },
+    {
+      "ID": 41,
+      "Key": "siege_declaration_points_recovery_sec",
+      "ZoneX": "all",
+      "Value": 3600
+    },
+    {
+      "ID": 42,
+      "Key": "siege_declaration_points_recovery_amount",
+      "ZoneX": "all",
+      "Value": 10
+    },
+    {
+      "ID": 43,
+      "Key": "siege_declaration_points_timeout_refund_bp",
+      "ZoneX": "all",
+      "Value": 1500
+    },
+    {
+      "ID": 44,
+      "Key": "siege_city_pve_level_one_capture_protection_sec",
+      "ZoneX": "all",
+      "Value": 4200
+    },
+    {
+      "ID": 45,
+      "Key": "siege_city_pve_level_two_capture_protection_sec",
+      "ZoneX": "all",
+      "Value": 4200
+    },
+    {
+      "ID": 46,
+      "Key": "siege_city_pvp_level_one_capture_protection_sec",
+      "ZoneX": "all",
+      "Value": 4200
+    },
+    {
+      "ID": 47,
+      "Key": "siege_city_pvp_level_two_capture_protection_sec",
+      "ZoneX": "all",
+      "Value": 5400
+    },
+    {
+      "ID": 48,
+      "Key": "siege_building_build_radius",
+      "ZoneX": "all",
+      "Value": 300
+    },
+    {
+      "ID": 49,
+      "Key": "siege_portal_teleport_mark_buff",
+      "ZoneX": "all",
+      "Value": 32014
+    },
+    {
+      "ID": 50,
+      "Key": "siege_portal_teleport_mark_sec",
+      "ZoneX": "all",
+      "Value": 2
+    },
+    {
+      "ID": 51,
+      "Key": "siege_barbarian_garrison_scatter",
+      "ZoneX": "all",
+      "Value": 10
+    },
+    {
+      "ID": 52,
+      "Key": "siege_wall_garrison_patrol_radius",
+      "ZoneX": "all",
+      "Value": 40
+    },
+    {
+      "ID": 53,
+      "Key": "siege_wall_garrison_ladder_range",
+      "ZoneX": "all",
+      "Value": 30
+    },
+    {
+      "ID": 54,
+      "Key": "siege_wall_garrison_support_radius",
+      "ZoneX": "all",
+      "Value": 40
+    },
+    {
+      "ID": 55,
+      "Key": "siege_wall_garrison_find_enemy_radius",
+      "ZoneX": "all",
+      "Value": 40
+    },
+    {
+      "ID": 56,
+      "Key": "siege_field_spawn_scatter",
+      "ZoneX": "all",
+      "Value": 10
+    },
+    {
+      "ID": 57,
+      "Key": "siege_spawn_march_around_radius",
+      "ZoneX": "all",
+      "Value": 10
+    },
+    {
+      "ID": 58,
+      "Key": "siege_buff_building1_effect",
+      "ZoneX": "all",
+      "Value": 3000
+    },
+    {
+      "ID": 59,
+      "Key": "siege_buff_building1_value",
+      "ZoneX": "all",
+      "Value": 5
+    },
+    {
+      "ID": 60,
+      "Key": "siege_buff_building2_effect",
+      "ZoneX": "all",
+      "Value": 12062
+    },
+    {
+      "ID": 61,
+      "Key": "siege_buff_building2_value",
+      "ZoneX": "all",
+      "Value": 5
+    },
+    {
+      "ID": 62,
+      "Key": "siege_buff_building3_effect",
+      "ZoneX": "all",
+      "Value": 6000
+    },
+    {
+      "ID": 63,
+      "Key": "siege_buff_building3_value",
+      "ZoneX": "all",
+      "Value": 15
+    },
+    {
+      "ID": 64,
+      "Key": "siege_building_remove_sec",
+      "ZoneX": "all",
+      "Value": 60
+    },
+    {
+      "ID": 65,
+      "Key": "siege_capital_recover_interval_sec",
+      "ZoneX": "all",
+      "Value": 1
+    },
+    {
+      "ID": 66,
+      "Key": "siege_capital_recover_amount",
+      "ZoneX": "all",
+      "Value": 25
+    },
+    {
+      "ID": 67,
+      "Key": "siege_dynamic_pass_recover_interval_sec",
+      "ZoneX": "all",
+      "Value": 1
+    },
+    {
+      "ID": 68,
+      "Key": "siege_dynamic_pass_recover_amount",
+      "ZoneX": "all",
+      "Value": 15
+    },
+    {
+      "ID": 69,
+      "Key": "siege_building_recover_interval_sec",
+      "ZoneX": "all",
+      "Value": 1
+    },
+    {
+      "ID": 70,
+      "Key": "siege_building_recover_amount",
+      "ZoneX": "all",
+      "Value": 10
+    },
+    {
+      "ID": 71,
+      "Key": "siege_durability_protection_recover_bp",
+      "ZoneX": "all",
+      "Value": 1500
+    },
+    {
+      "ID": 72,
+      "Key": "siege_city_small_territory_radius",
+      "ZoneX": "all",
+      "Value": 4
+    },
+    {
+      "ID": 73,
+      "Key": "siege_city_large_territory_radius",
+      "ZoneX": "all",
+      "Value": 6
+    },
+    {
+      "ID": 74,
+      "Key": "siege_city_capture_reward_province_small",
+      "ZoneX": "all",
+      "Value": 3
+    },
+    {
+      "ID": 75,
+      "Key": "siege_city_capture_reward_pass_small",
+      "ZoneX": "all",
+      "Value": 3
+    },
+    {
+      "ID": 76,
+      "Key": "siege_city_capture_reward_province_large",
+      "ZoneX": "all",
+      "Value": 3
+    },
+    {
+      "ID": 77,
+      "Key": "siege_city_capture_reward_pass_large",
+      "ZoneX": "all",
+      "Value": 3
+    },
+    {
+      "ID": 78,
+      "Key": "siege_dynamic_pass_large_outer_hp_max",
+      "ZoneX": "all",
+      "Value": 120000
+    },
+    {
+      "ID": 79,
+      "Key": "siege_dynamic_pass_large_inner_hp_max",
+      "ZoneX": "all",
+      "Value": 180000
+    },
+    {
+      "ID": 80,
+      "Key": "siege_dynamic_pass_small_hp_max",
+      "ZoneX": "all",
+      "Value": 110000
+    },
+    {
+      "ID": 81,
+      "Key": "siege_capital_large_hp_max",
+      "ZoneX": "all",
+      "Value": 210000
+    },
+    {
+      "ID": 82,
+      "Key": "siege_capital_small_hp_max",
+      "ZoneX": "all",
+      "Value": 130000
+    }
+  ]
+}

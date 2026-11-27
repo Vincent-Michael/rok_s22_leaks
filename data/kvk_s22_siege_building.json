@@ -1,0 +1,132 @@
+{
+  "source": "exceldata_1114.bin",
+  "md5": "42fa896a844ac797250f0cf7c7d99840",
+  "sha256": "127cd0c054ef42aeafbe7cf1212367240b9af1e2890eb6242caab6dcdf31d9b4",
+  "table": "kvk_s22_siege_building",
+  "metadata": {
+    "offset": 2440561,
+    "flag": 0,
+    "dict_size": 300,
+    "dict_start": 2440582,
+    "dict_compressed": 90,
+    "row_size": 164,
+    "row_start": 2440672,
+    "row_compressed": 122
+  },
+  "fields": [
+    {
+      "name": "ID",
+      "type": 0
+    },
+    {
+      "name": "IMG",
+      "type": 2
+    },
+    {
+      "name": "DESC",
+      "type": 2
+    },
+    {
+      "name": "NAME",
+      "type": 2
+    },
+    {
+      "name": "INFO",
+      "type": 2
+    },
+    {
+      "name": "Count1",
+      "type": 0
+    },
+    {
+      "name": "Count",
+      "type": 0
+    },
+    {
+      "name": "Prefab",
+      "type": 2
+    },
+    {
+      "name": "BUIDINGTIME",
+      "type": 0
+    },
+    {
+      "name": "BUFFNAME",
+      "type": 2
+    },
+    {
+      "name": "PrefabUI",
+      "type": 2
+    },
+    {
+      "name": "BUFFDESC",
+      "type": 2
+    },
+    {
+      "name": "BUFFIMG",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "ID": 1,
+      "IMG": "img_iconT22Fort_05",
+      "DESC": "LC_KINGDOMWAR_CITY_TP_DESC",
+      "NAME": "LC_KINGDOMWAR_CITY_TP_TITLE",
+      "INFO": "LC_KINGDOMWAR_CITY_TP_INFO",
+      "Count1": 2,
+      "Count": 4,
+      "Prefab": "KVK22SiegeTransTower_1_1",
+      "BUIDINGTIME": 600,
+      "BUFFNAME": "null",
+      "PrefabUI": "KVK22SiegeTransTower_1_1_ui",
+      "BUFFDESC": "null",
+      "BUFFIMG": "null"
+    },
+    {
+      "ID": 2,
+      "IMG": "img_iconT22Fort_07",
+      "DESC": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_BUFF_DESC_1",
+      "NAME": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_TITLE_1",
+      "INFO": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_INFO_1",
+      "Count1": 1,
+      "Count": 2,
+      "Prefab": "KVK22SiegeBuffBuilding_1_1",
+      "BUIDINGTIME": 600,
+      "BUFFNAME": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_BUFF_TITLE_1",
+      "PrefabUI": "KVK22SiegeBuffBuilding_1_1_ui",
+      "BUFFDESC": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_DESC_1",
+      "BUFFIMG": "img_HeroSkill658"
+    },
+    {
+      "ID": 3,
+      "IMG": "img_iconT22Fort_08",
+      "DESC": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_BUFF_DESC_2",
+      "NAME": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_TITLE_2",
+      "INFO": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_INFO_1",
+      "Count1": 1,
+      "Count": 2,
+      "Prefab": "KVK22SiegeBuffBuilding_1_2",
+      "BUIDINGTIME": 600,
+      "BUFFNAME": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_BUFF_TITLE_2",
+      "PrefabUI": "KVK22SiegeBuffBuilding_1_2_ui",
+      "BUFFDESC": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_DESC_2",
+      "BUFFIMG": "img_HeroSkill659"
+    },
+    {
+      "ID": 4,
+      "IMG": "img_iconT22Fort_09",
+      "DESC": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_BUFF_DESC_3",
+      "NAME": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_TITLE_3",
+      "INFO": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_INFO_1",
+      "Count1": 1,
+      "Count": 2,
+      "Prefab": "KVK22SiegeBuffBuilding_1_3",
+      "BUIDINGTIME": 600,
+      "BUFFNAME": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_BUFF_TITLE_3",
+      "PrefabUI": "KVK22SiegeBuffBuilding_1_3_ui",
+      "BUFFDESC": "LC_KINGDOMWAR_CITY_BUFF_BUILDING_DESC_3",
+      "BUFFIMG": "img_HeroSkill657"
+    }
+  ]
+}

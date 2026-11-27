@@ -1,0 +1,186 @@
+{
+  "source": "exceldata_1114.bin",
+  "md5": "42fa896a844ac797250f0cf7c7d99840",
+  "sha256": "127cd0c054ef42aeafbe7cf1212367240b9af1e2890eb6242caab6dcdf31d9b4",
+  "table": "kvk_s22_city_name",
+  "metadata": {
+    "offset": 2440955,
+    "flag": 0,
+    "dict_size": 788,
+    "dict_start": 2440976,
+    "dict_compressed": 201,
+    "row_size": 224,
+    "row_start": 2441177,
+    "row_compressed": 166
+  },
+  "fields": [
+    {
+      "name": "ID",
+      "type": 0
+    },
+    {
+      "name": "Province_ID",
+      "type": 0
+    },
+    {
+      "name": "Tile_ID",
+      "type": 0
+    },
+    {
+      "name": "CityName",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "ID": 1,
+      "Province_ID": 43,
+      "Tile_ID": 1228,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_1"
+    },
+    {
+      "ID": 2,
+      "Province_ID": 44,
+      "Tile_ID": 1173,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_2"
+    },
+    {
+      "ID": 3,
+      "Province_ID": 46,
+      "Tile_ID": 1238,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_3"
+    },
+    {
+      "ID": 4,
+      "Province_ID": 26,
+      "Tile_ID": 1527,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_4"
+    },
+    {
+      "ID": 5,
+      "Province_ID": 45,
+      "Tile_ID": 1539,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_5"
+    },
+    {
+      "ID": 6,
+      "Province_ID": 48,
+      "Tile_ID": 1828,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_6"
+    },
+    {
+      "ID": 7,
+      "Province_ID": 47,
+      "Tile_ID": 1893,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_7"
+    },
+    {
+      "ID": 8,
+      "Province_ID": 25,
+      "Tile_ID": 1838,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_8"
+    },
+    {
+      "ID": 9,
+      "Province_ID": 35,
+      "Tile_ID": 557,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_9"
+    },
+    {
+      "ID": 10,
+      "Province_ID": 36,
+      "Tile_ID": 795,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_10"
+    },
+    {
+      "ID": 11,
+      "Province_ID": 37,
+      "Tile_ID": 586,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_11"
+    },
+    {
+      "ID": 12,
+      "Province_ID": 38,
+      "Tile_ID": 829,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_12"
+    },
+    {
+      "ID": 13,
+      "Province_ID": 39,
+      "Tile_ID": 2330,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_13"
+    },
+    {
+      "ID": 14,
+      "Province_ID": 40,
+      "Tile_ID": 2566,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_14"
+    },
+    {
+      "ID": 15,
+      "Province_ID": 42,
+      "Tile_ID": 2417,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_15"
+    },
+    {
+      "ID": 16,
+      "Province_ID": 41,
+      "Tile_ID": 2601,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_16"
+    },
+    {
+      "ID": 17,
+      "Province_ID": 31,
+      "Tile_ID": 570,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_17"
+    },
+    {
+      "ID": 18,
+      "Province_ID": 32,
+      "Tile_ID": 578,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_18"
+    },
+    {
+      "ID": 19,
+      "Province_ID": 29,
+      "Tile_ID": 1311,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_19"
+    },
+    {
+      "ID": 20,
+      "Province_ID": 30,
+      "Tile_ID": 1911,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_20"
+    },
+    {
+      "ID": 21,
+      "Province_ID": 33,
+      "Tile_ID": 2490,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_21"
+    },
+    {
+      "ID": 22,
+      "Province_ID": 34,
+      "Tile_ID": 2498,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_22"
+    },
+    {
+      "ID": 23,
+      "Province_ID": 27,
+      "Tile_ID": 1279,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_23"
+    },
+    {
+      "ID": 24,
+      "Province_ID": 28,
+      "Tile_ID": 1879,
+      "CityName": "LC_KINGDOMWAR_CITY_NAME_24"
+    },
+    {
+      "ID": 25,
+      "Province_ID": 24,
+      "Tile_ID": 1533,
+      "CityName": "LC_KINGDOMWAR_SIGN_RULE_PAGE2_S22_KEY5"
+    }
+  ]
+}

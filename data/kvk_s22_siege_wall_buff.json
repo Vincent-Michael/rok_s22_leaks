@@ -1,0 +1,68 @@
+{
+  "source": "exceldata_1114.bin",
+  "md5": "42fa896a844ac797250f0cf7c7d99840",
+  "sha256": "127cd0c054ef42aeafbe7cf1212367240b9af1e2890eb6242caab6dcdf31d9b4",
+  "table": "kvk_s22_siege_wall_buff",
+  "metadata": {
+    "offset": 2440794,
+    "flag": 0,
+    "dict_size": 164,
+    "dict_start": 2440815,
+    "dict_compressed": 76,
+    "row_size": 68,
+    "row_start": 2440891,
+    "row_compressed": 64
+  },
+  "fields": [
+    {
+      "name": "ID",
+      "type": 0
+    },
+    {
+      "name": "IMG",
+      "type": 2
+    },
+    {
+      "name": "DESC",
+      "type": 2
+    },
+    {
+      "name": "NAME",
+      "type": 2
+    },
+    {
+      "name": "Param",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "ID": 99530,
+      "IMG": "img_HeroSkill663",
+      "DESC": "LC_KINGDOMWAR_CITY_WALL_BUFF_DESC_1",
+      "NAME": "LC_KINGDOMWAR_CITY_WALL_BUFF_NAME_1",
+      "Param": "15"
+    },
+    {
+      "ID": 10002,
+      "IMG": "img_HeroSkill662",
+      "DESC": "LC_KINGDOMWAR_CITY_WALL_BUFF_DESC_2",
+      "NAME": "LC_KINGDOMWAR_CITY_WALL_BUFF_NAME_2",
+      "Param": "5"
+    },
+    {
+      "ID": 90000,
+      "IMG": "img_HeroSkill661",
+      "DESC": "LC_KINGDOMWAR_CITY_WALL_BUFF_DESC_3",
+      "NAME": "LC_KINGDOMWAR_CITY_WALL_BUFF_NAME_3",
+      "Param": "10"
+    },
+    {
+      "ID": 99600,
+      "IMG": "img_HeroSkill660",
+      "DESC": "LC_KINGDOMWAR_CITY_WALL_BUFF_DESC_4",
+      "NAME": "LC_KINGDOMWAR_CITY_WALL_BUFF_NAME_4",
+      "Param": "100,180"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "source": "exceldata_1114.bin",
+  "md5": "42fa896a844ac797250f0cf7c7d99840",
+  "sha256": "127cd0c054ef42aeafbe7cf1212367240b9af1e2890eb6242caab6dcdf31d9b4",
+  "table": "kvk_s22_popup",
+  "metadata": {
+    "offset": 2441343,
+    "flag": 0,
+    "dict_size": 116,
+    "dict_start": 2441364,
+    "dict_compressed": 48,
+    "row_size": 64,
+    "row_start": 2441412,
+    "row_compressed": 62
+  },
+  "fields": [
+    {
+      "name": "ID",
+      "type": 0
+    },
+    {
+      "name": "Key",
+      "type": 2
+    },
+    {
+      "name": "IMAGE_RIGHT",
+      "type": 2
+    },
+    {
+      "name": "TITLE_KEY",
+      "type": 2
+    },
+    {
+      "name": "AudioName",
+      "type": 2
+    },
+    {
+      "name": "DESC_KEY",
+      "type": 2
+    },
+    {
+      "name": "IMAGE_LEFT",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "ID": 1,
+      "Key": "S22_occupy_GreatZiggurat_popup",
+      "IMAGE_RIGHT": "img_KVKOpeningBriefingBG1_R",
+      "TITLE_KEY": "LC_KINGDOMWAR_S22_POPUP_1_TITLE",
+      "AudioName": "SFX_KVK_S22_Popup_Ziggurat",
+      "DESC_KEY": "LC_KINGDOMWAR_S22_POPUP_1_DESC",
+      "IMAGE_LEFT": "img_KVKOpeningBriefingBG1_L"
+    },
+    {
+      "ID": 2,
+      "Key": "S22_occupy_city_popup",
+      "IMAGE_RIGHT": "img_KVKOpeningBriefingBG2_R",
+      "TITLE_KEY": "LC_KINGDOMWAR_S22_POPUP_2_TITLE",
+      "AudioName": "SFX_KVK_S22_Popup_Forum",
+      "DESC_KEY": "LC_KINGDOMWAR_S22_POPUP_2_DESC",
+      "IMAGE_LEFT": "img_KVKOpeningBriefingBG2_L"
+    }
+  ]
+}
