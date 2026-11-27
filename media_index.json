@@ -1,0 +1,3863 @@
+[
+  {
+    "name": "cloudtex",
+    "file": "media/cloudtex_-3796081618702655477.png",
+    "bundle": "_share_vfx.lb",
+    "width": 128,
+    "height": 128,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolHero_6_C",
+    "file": "media/img_WishingPoolHero_6_C_-9150014108245494248.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 440,
+    "height": 440,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolShare_bg10",
+    "file": "media/img_WishingPoolShare_bg10_-9124231624321236581.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 1024,
+    "height": 576,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroSkinEffectPopBG6",
+    "file": "media/img_HeroSkinEffectPopBG6_-8959273260374865443.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 560,
+    "height": 440,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AppearanceWishingPool_bg_btn_mask_8",
+    "file": "media/img_AppearanceWishingPool_bg_btn_mask_8_-8708319287913719597.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 276,
+    "height": 156,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolHero_7_C",
+    "file": "media/img_WishingPoolHero_7_C_-8626839604019197390.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 440,
+    "height": 440,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroSkinEffectPopBG5",
+    "file": "media/img_HeroSkinEffectPopBG5_-6832668685002552780.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 560,
+    "height": 440,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolHero_6_B",
+    "file": "media/img_WishingPoolHero_6_B_-4311542755590395281.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 280,
+    "height": 280,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolHero_5_C",
+    "file": "media/img_WishingPoolHero_5_C_-2938930127511613456.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 440,
+    "height": 440,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AppearanceWishingPool_bg_btn_mask_6",
+    "file": "media/img_AppearanceWishingPool_bg_btn_mask_6_-1911152076980589305.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 276,
+    "height": 156,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "btn_WishingShop",
+    "file": "media/btn_WishingShop_-1430568203222888111.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 100,
+    "height": 100,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolHero_7_B",
+    "file": "media/img_WishingPoolHero_7_B_-499443353077790754.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 280,
+    "height": 280,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolHero_7_A",
+    "file": "media/img_WishingPoolHero_7_A_-465180743201348698.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 440,
+    "height": 440,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolShare_bg9",
+    "file": "media/img_WishingPoolShare_bg9_407702870910217105.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 1024,
+    "height": 576,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolHero_6_A",
+    "file": "media/img_WishingPoolHero_6_A_1422789469195557788.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 440,
+    "height": 440,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AppearanceWishingPool_bg_btn_mask_7",
+    "file": "media/img_AppearanceWishingPool_bg_btn_mask_7_2743237634188074217.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 276,
+    "height": 156,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolHero_5_A",
+    "file": "media/img_WishingPoolHero_5_A_5302157183398957714.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 440,
+    "height": 440,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolHero_5_B",
+    "file": "media/img_WishingPoolHero_5_B_6792230707204013984.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 280,
+    "height": 280,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolShare_bg11",
+    "file": "media/img_WishingPoolShare_bg11_7165495804776483332.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 1024,
+    "height": 576,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WishingPoolPopbg_2",
+    "file": "media/img_WishingPoolPopbg_2_9126626190259516409.png",
+    "bundle": "ui_texture_appearancewishingpool_1114.lb",
+    "width": 340,
+    "height": 164,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AvatarFrame_267",
+    "file": "media/img_AvatarFrame_267_-7411265033551081885.png",
+    "bundle": "ui_texture_avtatarframe_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AvatarFrame_269",
+    "file": "media/img_AvatarFrame_269_-2096798530877578392.png",
+    "bundle": "ui_texture_avtatarframe_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AvatarFrame_266",
+    "file": "media/img_AvatarFrame_266_-2028496026242933568.png",
+    "bundle": "ui_texture_avtatarframe_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AvatarFrame_268",
+    "file": "media/img_AvatarFrame_268_-1009443217752766499.png",
+    "bundle": "ui_texture_avtatarframe_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AvatarFrame_271",
+    "file": "media/img_AvatarFrame_271_-205083034913772553.png",
+    "bundle": "ui_texture_avtatarframe_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AvatarFrame_272",
+    "file": "media/img_AvatarFrame_272_1366000668434548153.png",
+    "bundle": "ui_texture_avtatarframe_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AvatarFrame_270",
+    "file": "media/img_AvatarFrame_270_8751309280185225447.png",
+    "bundle": "ui_texture_avtatarframe_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_Max",
+    "file": "media/img_icon_Max_-8381401534403006302.png",
+    "bundle": "ui_texture_common_1114.lb",
+    "width": 72,
+    "height": 72,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AppearanceWishingPoolMainPage_line",
+    "file": "media/img_AppearanceWishingPoolMainPage_line_171748736438415442.png",
+    "bundle": "ui_texture_common_1114.lb",
+    "width": 164,
+    "height": 4,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AppearanceWishingPoolMainPage2",
+    "file": "media/img_AppearanceWishingPoolMainPage2_3884223966665186665.png",
+    "bundle": "ui_texture_common_1114.lb",
+    "width": 20,
+    "height": 20,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_AppearanceWishingPoolMainPage1",
+    "file": "media/img_AppearanceWishingPoolMainPage1_9114441276291347627.png",
+    "bundle": "ui_texture_common_1114.lb",
+    "width": 48,
+    "height": 64,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_player_2",
+    "file": "media/Emoji_player_2_-6844633364976230052.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_Charles_snore",
+    "file": "media/Emoji_Charles_snore_-6033916373303918092.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_sunwu_anxiety",
+    "file": "media/Emoji_sunwu_anxiety_-5943028835354510450.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_player_4",
+    "file": "media/Emoji_player_4_-4979237734187182392.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_yuanyijin_tea",
+    "file": "media/Emoji_yuanyijin_tea_-1400908377158042401.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_player_5",
+    "file": "media/Emoji_player_5_-344527126628731622.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_yuanyijin_loading",
+    "file": "media/Emoji_yuanyijin_loading_2749367963778384915.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_Charles_laugh",
+    "file": "media/Emoji_Charles_laugh_3415203477562318929.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_player_1",
+    "file": "media/Emoji_player_1_3626840743456763403.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_yuanyijin_snore",
+    "file": "media/Emoji_yuanyijin_snore_6909459014249946532.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_sunwu_scorn",
+    "file": "media/Emoji_sunwu_scorn_6966482774974418046.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_player_3",
+    "file": "media/Emoji_player_3_7786792842229412707.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_Charles_hammer",
+    "file": "media/Emoji_Charles_hammer_7998100128616457529.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_player_6",
+    "file": "media/Emoji_player_6_8318641496820513453.png",
+    "bundle": "ui_texture_emoji_1114.lb",
+    "width": 200,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_puzzleBingo_Korea2026_1_7",
+    "file": "media/img_puzzleBingo_Korea2026_1_7_-9035337558083548594.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 108,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CommonEventImportBG36",
+    "file": "media/img_CommonEventImportBG36_-8996895369834764234.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 416,
+    "height": 336,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconEventSubject536",
+    "file": "media/img_iconEventSubject536_-8547208548933824986.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Event_RaidBoss_Education1",
+    "file": "media/Event_RaidBoss_Education1_-8470733339027996018.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 400,
+    "height": 400,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventImportMainPage_s22Ente_Bg_R",
+    "file": "media/img_EventImportMainPage_s22Ente_Bg_R_-8313924147985514141.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 828,
+    "height": 1024,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_EventHeroGaChaBG3_Roma",
+    "file": "media/img_EventHeroGaChaBG3_Roma_-8217232410807195720.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 774,
+    "height": 279,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_Awakening3",
+    "file": "media/img_CrystalResearch_New_Awakening3_-7784584830626227936.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 50,
+    "height": 50,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventBannerMax309",
+    "file": "media/img_EventBannerMax309_-7594572499189399256.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 1024,
+    "height": 808,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_round01",
+    "file": "media/img_CrystalResearch_New_round01_-7482356799024227486.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 84,
+    "height": 128,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_puzzleBingo_Korea2026_1_6",
+    "file": "media/img_puzzleBingo_Korea2026_1_6_-7470654369874769486.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 108,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_Awakening4",
+    "file": "media/img_CrystalResearch_New_Awakening4_-7271990858352531970.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 50,
+    "height": 50,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_BG01",
+    "file": "media/img_CrystalResearch_New_BG01_-7211993211575648051.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 895,
+    "height": 1024,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_round02",
+    "file": "media/img_CrystalResearch_New_round02_-7051653758817389680.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 204,
+    "height": 392,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_line02",
+    "file": "media/img_CrystalResearch_New_line02_-5927794479075259090.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 88,
+    "height": 24,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventHeroGaChaGaizi3",
+    "file": "media/img_EventHeroGaChaGaizi3_-5714255423739999340.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 359,
+    "height": 221,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_BulletinBoard30",
+    "file": "media/img_BulletinBoard30_-5573093593548991592.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 596,
+    "height": 164,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_puzzleBingo_Korea2026_1_1",
+    "file": "media/img_puzzleBingo_Korea2026_1_1_-5497181298087105462.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 108,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_icon01",
+    "file": "media/img_CrystalResearch_New_icon01_-4892197818025794220.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 240,
+    "height": 200,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_line06",
+    "file": "media/img_CrystalResearch_New_line06_-4662025877076676748.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 88,
+    "height": 336,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_line03",
+    "file": "media/img_CrystalResearch_New_line03_-4052274358663876591.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 88,
+    "height": 164,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_puzzleBingo_Korea2026_1_9",
+    "file": "media/img_puzzleBingo_Korea2026_1_9_-4011272181969518761.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 108,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventPowerRankPreCitySkin_13",
+    "file": "media/img_EventPowerRankPreCitySkin_13_-3963201519428270088.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 400,
+    "height": 618,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_line01",
+    "file": "media/img_CrystalResearch_New_line01_-3852790589433592857.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 88,
+    "height": 24,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CommonEventImportBG37",
+    "file": "media/img_CommonEventImportBG37_-3120128647335500650.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 416,
+    "height": 336,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_round03",
+    "file": "media/img_CrystalResearch_New_round03_-2986483680592491760.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 24,
+    "height": 8,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventHeroGaChaGaizi4",
+    "file": "media/img_EventHeroGaChaGaizi4_-2522610380849107019.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 360,
+    "height": 224,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventHeroGaChaSuo1",
+    "file": "media/img_EventHeroGaChaSuo1_-2407135197098453808.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 258,
+    "height": 138,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_DeprecatedFrame2",
+    "file": "media/img_DeprecatedFrame2_-1936668364736007704.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 164,
+    "height": 76,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventBannerMax310",
+    "file": "media/img_EventBannerMax310_-1602443740972734119.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 1024,
+    "height": 808,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventHeroGaChaGaizi1",
+    "file": "media/img_EventHeroGaChaGaizi1_-1398124064225508256.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 377,
+    "height": 205,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_BulletinBoard29",
+    "file": "media/img_BulletinBoard29_-357967378538771472.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 596,
+    "height": 164,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Event_RaidBoss_Education2",
+    "file": "media/Event_RaidBoss_Education2_27571008312981166.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 400,
+    "height": 400,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventHeroGaChaGaizi2",
+    "file": "media/img_EventHeroGaChaGaizi2_169529191654604827.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 381,
+    "height": 202,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventBannerMax307",
+    "file": "media/img_EventBannerMax307_175768263827788198.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 1024,
+    "height": 808,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_puzzleBingo_Korea2026_1_8",
+    "file": "media/img_puzzleBingo_Korea2026_1_8_494670790425805704.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 108,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_round04",
+    "file": "media/img_CrystalResearch_New_round04_875180838887407582.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 20,
+    "height": 4,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_line10",
+    "file": "media/img_CrystalResearch_New_line10_902337928985006558.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 82,
+    "height": 61,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventHeroGaChaBtn1_Roma",
+    "file": "media/img_EventHeroGaChaBtn1_Roma_1297904139133947521.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 100,
+    "height": 100,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconEventSubject533",
+    "file": "media/img_iconEventSubject533_1416435395589761391.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventHeroGaChaDiZuo",
+    "file": "media/img_EventHeroGaChaDiZuo_1483689937721875310.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 359,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_Awakening1",
+    "file": "media/img_CrystalResearch_New_Awakening1_2094547837378262972.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 50,
+    "height": 50,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_line09",
+    "file": "media/img_CrystalResearch_New_line09_2403804304232795090.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 88,
+    "height": 67,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Event_RaidBoss_Education3",
+    "file": "media/Event_RaidBoss_Education3_2610379250081076630.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 400,
+    "height": 400,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_puzzleBingo_Korea2026_1_5",
+    "file": "media/img_puzzleBingo_Korea2026_1_5_2732860604088635139.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 108,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconEventSubject534",
+    "file": "media/img_iconEventSubject534_2890116108494385273.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_puzzleBingo_Korea2026_1_3",
+    "file": "media/img_puzzleBingo_Korea2026_1_3_3017671444717335759.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 108,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_puzzleBingo_Korea2026_1_2",
+    "file": "media/img_puzzleBingo_Korea2026_1_2_3039668197136139071.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 108,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconEventSubject540",
+    "file": "media/img_iconEventSubject540_3733258148803364983.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_Awakening2",
+    "file": "media/img_CrystalResearch_New_Awakening2_3774163120401273222.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 50,
+    "height": 50,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_tex02",
+    "file": "media/img_CrystalResearch_New_tex02_4094634753650860340.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 240,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_tex01",
+    "file": "media/img_CrystalResearch_New_tex01_4242950995672855651.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 356,
+    "height": 428,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconEventSubject535",
+    "file": "media/img_iconEventSubject535_4357631882572210135.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventHeroGaChaBG2_Roma",
+    "file": "media/img_EventHeroGaChaBG2_Roma_4379992285336591898.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 720,
+    "height": 620,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CommonEventImportBG35",
+    "file": "media/img_CommonEventImportBG35_4488226949061681565.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 416,
+    "height": 336,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_line04",
+    "file": "media/img_CrystalResearch_New_line04_4610037201938638499.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 88,
+    "height": 164,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_line07",
+    "file": "media/img_CrystalResearch_New_line07_5354642862882316474.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 88,
+    "height": 156,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventTemplate_BundleShop_returnBtn_Bg",
+    "file": "media/img_EventTemplate_BundleShop_returnBtn_Bg_5409065891831376324.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 54,
+    "height": 54,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_BulletinBoard21",
+    "file": "media/img_BulletinBoard21_5701141882011877146.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 596,
+    "height": 164,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconEvent56",
+    "file": "media/img_iconEvent56_6077276588353080008.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 100,
+    "height": 100,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_line05",
+    "file": "media/img_CrystalResearch_New_line05_6472822268146458973.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 88,
+    "height": 336,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_puzzleBingo_Korea2026_1_4",
+    "file": "media/img_puzzleBingo_Korea2026_1_4_6608054379703616745.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 108,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconEventSubject539",
+    "file": "media/img_iconEventSubject539_6998176919113563212.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventBanner376",
+    "file": "media/img_EventBanner376_7260678635612759463.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 700,
+    "height": 192,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventImportMainPage_s22Ente_Bg_L",
+    "file": "media/img_EventImportMainPage_s22Ente_Bg_L_7961807094732522154.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 828,
+    "height": 1024,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_CrystalResearch_New_line08",
+    "file": "media/img_CrystalResearch_New_line08_8087174799026719907.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 88,
+    "height": 156,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_BG02",
+    "file": "media/img_CrystalResearch_New_BG02_8217540193585231973.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 895,
+    "height": 1024,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_EventBannerMax308",
+    "file": "media/img_EventBannerMax308_8568684390870724436.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 1024,
+    "height": 808,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_frame01",
+    "file": "media/img_CrystalResearch_New_frame01_9053135762787824622.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 264,
+    "height": 40,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CrystalResearch_New_frame02",
+    "file": "media/img_CrystalResearch_New_frame02_9145583560872093603.png",
+    "bundle": "ui_texture_event_1114.lb",
+    "width": 280,
+    "height": 92,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroSkill663",
+    "file": "media/img_HeroSkill663_-8953117227925459199.png",
+    "bundle": "ui_texture_hero_1114.lb",
+    "width": 252,
+    "height": 252,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroSkill657",
+    "file": "media/img_HeroSkill657_-4835598030511228364.png",
+    "bundle": "ui_texture_hero_1114.lb",
+    "width": 252,
+    "height": 252,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroSkill660",
+    "file": "media/img_HeroSkill660_-4317843302310523449.png",
+    "bundle": "ui_texture_hero_1114.lb",
+    "width": 252,
+    "height": 252,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroSkill659",
+    "file": "media/img_HeroSkill659_-2607348196988281585.png",
+    "bundle": "ui_texture_hero_1114.lb",
+    "width": 252,
+    "height": 252,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroSkill658",
+    "file": "media/img_HeroSkill658_937866310988536783.png",
+    "bundle": "ui_texture_hero_1114.lb",
+    "width": 252,
+    "height": 252,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroSkill662",
+    "file": "media/img_HeroSkill662_3269951531956440255.png",
+    "bundle": "ui_texture_hero_1114.lb",
+    "width": 252,
+    "height": 252,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroSkill661",
+    "file": "media/img_HeroSkill661_7067950265318750115.png",
+    "bundle": "ui_texture_hero_1114.lb",
+    "width": 252,
+    "height": 252,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_emoji_player_head5",
+    "file": "media/img_emoji_player_head5_-9042403299213867110.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconIAPEvent134",
+    "file": "media/img_iconIAPEvent134_-9000360958074873840.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 84,
+    "height": 148,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_emoji_player_head1",
+    "file": "media/img_emoji_player_head1_-8642337182268503415.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_emoji_player_head2",
+    "file": "media/img_emoji_player_head2_-7948212095138874723.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_player_head_festive_1028",
+    "file": "media/img_player_head_festive_1028_-6624690674351033164.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_emoji_player_head3",
+    "file": "media/img_emoji_player_head3_-4190426858492504256.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_player_head_festive_1026",
+    "file": "media/img_player_head_festive_1026_-1600292708455503559.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_elite_bar14",
+    "file": "media/img_elite_bar14_-1285141109177275269.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 40,
+    "height": 40,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_emoji_player_head4",
+    "file": "media/img_emoji_player_head4_-1189226499428155755.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconEvent55",
+    "file": "media/img_iconEvent55_1561825610427624868.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 84,
+    "height": 80,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_player_head_festive_1027",
+    "file": "media/img_player_head_festive_1027_2623829521860798425.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_emoji_player_head6",
+    "file": "media/img_emoji_player_head6_7857292344172229880.png",
+    "bundle": "ui_texture_hud_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_IAPTopKvkBG",
+    "file": "media/img_IAPTopKvkBG_-1803299449550789944.png",
+    "bundle": "ui_texture_iap_1114.lb",
+    "width": 1024,
+    "height": 665,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_iconT22Fort_09",
+    "file": "media/img_iconT22Fort_09_-9183674916531331925.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_11_HeroSkin",
+    "file": "media/img_icon_item_11_HeroSkin_-8928001153195972935.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3313",
+    "file": "media/img_icon_item_3313_-8921346811461925459.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3321",
+    "file": "media/img_icon_item_3321_-8916284972456386467.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 512,
+    "height": 512,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3312",
+    "file": "media/img_icon_item_3312_-8562009362291771583.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3327",
+    "file": "media/img_icon_item_3327_-7906562708913854955.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3351",
+    "file": "media/img_icon_item_3351_-7721062082154750033.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3340",
+    "file": "media/img_icon_item_3340_-7659676182105485368.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3318",
+    "file": "media/img_icon_item_3318_-7288196921699065009.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3330",
+    "file": "media/img_icon_item_3330_-7210561335046597438.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3322",
+    "file": "media/img_icon_item_3322_-5631067404134317165.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3325",
+    "file": "media/img_icon_item_3325_-5540478585017356608.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3323",
+    "file": "media/img_icon_item_3323_-5526225544765495773.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3310",
+    "file": "media/img_icon_item_3310_-4904485151690292145.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3324",
+    "file": "media/img_icon_item_3324_-4647054627031172369.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3341",
+    "file": "media/img_icon_item_3341_-4512975221842754885.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3356",
+    "file": "media/img_icon_item_3356_-4334180912360672050.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconT22Fort_08",
+    "file": "media/img_iconT22Fort_08_-4328861022014854450.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3314",
+    "file": "media/img_icon_item_3314_-3898976198484774672.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_12_HeroSkin",
+    "file": "media/img_icon_item_12_HeroSkin_-3755299489454468837.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconT22Fort_04",
+    "file": "media/img_iconT22Fort_04_-3589389837501711245.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3342",
+    "file": "media/img_icon_item_3342_-3530098542070608844.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3361",
+    "file": "media/img_icon_item_3361_-2592053824293009783.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3332",
+    "file": "media/img_icon_item_3332_-2495115657107527900.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconT22Fort_02",
+    "file": "media/img_iconT22Fort_02_-2268438798124195140.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3338",
+    "file": "media/img_icon_item_3338_-2145578903407080631.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3331",
+    "file": "media/img_icon_item_3331_-1455114400730720652.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconT22Fort_05",
+    "file": "media/img_iconT22Fort_05_-882757041757914698.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3354",
+    "file": "media/img_icon_item_3354_-867934659777955603.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3360",
+    "file": "media/img_icon_item_3360_-752703062962726307.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3334",
+    "file": "media/img_icon_item_3334_-347028150525561936.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconT22Fort_07",
+    "file": "media/img_iconT22Fort_07_-184465679131539712.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3329",
+    "file": "media/img_icon_item_3329_-180189236340362485.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3350",
+    "file": "media/img_icon_item_3350_-7630246657484583.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3344",
+    "file": "media/img_icon_item_3344_407486883984577783.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 512,
+    "height": 512,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3355",
+    "file": "media/img_icon_item_3355_755372473120160003.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3339",
+    "file": "media/img_icon_item_3339_1301551779653816843.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3316",
+    "file": "media/img_icon_item_3316_1507607556898809020.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3317",
+    "file": "media/img_icon_item_3317_1979863727655489844.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 512,
+    "height": 512,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconT22Fort_03",
+    "file": "media/img_iconT22Fort_03_2192712917448127259.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3311",
+    "file": "media/img_icon_item_3311_2376265170071716886.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3326",
+    "file": "media/img_icon_item_3326_3041467080418592520.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3349",
+    "file": "media/img_icon_item_3349_3101404061927718942.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3346",
+    "file": "media/img_icon_item_3346_3177670051738842155.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3335",
+    "file": "media/img_icon_item_3335_3272047822386162368.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconT22Fort_06",
+    "file": "media/img_iconT22Fort_06_3496570952871653729.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconT22Fort_01",
+    "file": "media/img_iconT22Fort_01_3793223227672166948.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3309",
+    "file": "media/img_icon_item_3309_3944813772344796211.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3337",
+    "file": "media/img_icon_item_3337_4328570180061793025.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3353",
+    "file": "media/img_icon_item_3353_4541715090331033600.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3359",
+    "file": "media/img_icon_item_3359_5070715000206180350.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3358",
+    "file": "media/img_icon_item_3358_5105716827509350895.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3345",
+    "file": "media/img_icon_item_3345_5106537587700148392.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3347",
+    "file": "media/img_icon_item_3347_5181804496678273182.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3352",
+    "file": "media/img_icon_item_3352_5240279910109090287.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3308",
+    "file": "media/img_icon_item_3308_5449641825903342790.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3343",
+    "file": "media/img_icon_item_3343_5477702703752250035.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3357",
+    "file": "media/img_icon_item_3357_6982421004777348796.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3336",
+    "file": "media/img_icon_item_3336_7014860234846636697.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3315",
+    "file": "media/img_icon_item_3315_7119739910676280665.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3348",
+    "file": "media/img_icon_item_3348_7362917558429778199.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3328",
+    "file": "media/img_icon_item_3328_7398611156058167701.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_10_HeroSkin",
+    "file": "media/img_icon_item_10_HeroSkin_8181985809690611248.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_icon_item_3333",
+    "file": "media/img_icon_item_3333_8277596547191623012.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 160,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_iconGem",
+    "file": "media/img_iconGem_8895161501975296083.png",
+    "bundle": "ui_texture_icon_item_1114.lb",
+    "width": 240,
+    "height": 240,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_S22MailFort02",
+    "file": "media/img_S22MailFort02_-2467517428718257916.png",
+    "bundle": "ui_texture_img_1114.lb",
+    "width": 144,
+    "height": 112,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_MailTypeBG_S22_01",
+    "file": "media/img_MailTypeBG_S22_01_-746447082796684625.png",
+    "bundle": "ui_texture_img_1114.lb",
+    "width": 600,
+    "height": 110,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_S22Mail",
+    "file": "media/img_S22Mail_3511633989498738768.png",
+    "bundle": "ui_texture_img_1114.lb",
+    "width": 120,
+    "height": 120,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_RemakeVersion3Dforce04",
+    "file": "media/img_RemakeVersion3Dforce04_5135072868879925943.png",
+    "bundle": "ui_texture_img_1114.lb",
+    "width": 380,
+    "height": 236,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_RemakeVersion3Dforce03",
+    "file": "media/img_RemakeVersion3Dforce03_7053246950072242043.png",
+    "bundle": "ui_texture_img_1114.lb",
+    "width": 380,
+    "height": 236,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_S22MailFort01",
+    "file": "media/img_S22MailFort01_8451790099054835721.png",
+    "bundle": "ui_texture_img_1114.lb",
+    "width": 144,
+    "height": 112,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_S22Mail02",
+    "file": "media/img_S22Mail02_8504055965347647571.png",
+    "bundle": "ui_texture_img_1114.lb",
+    "width": 120,
+    "height": 120,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_iconKVKS22Rules9",
+    "file": "media/img_iconKVKS22Rules9_-8553622881856088408.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_S22IconLegioX",
+    "file": "media/img_S22IconLegioX_-8350472174080626703.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 28,
+    "height": 28,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_S22IconLegioXIII",
+    "file": "media/img_S22IconLegioXIII_-7377548247106733480.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 28,
+    "height": 28,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_TopKVKBattlefieldInitiatedBG1",
+    "file": "media/img_TopKVKBattlefieldInitiatedBG1_-7208659207563961231.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 124,
+    "height": 88,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_GVGEntrance9",
+    "file": "media/img_GVGEntrance9_-6659849839703580838.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 348,
+    "height": 320,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMapLegioX_1",
+    "file": "media/img_KVKMiniMapLegioX_1_-6533883067969521501.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 36,
+    "height": 36,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_iconKVKS22Rules11",
+    "file": "media/img_iconKVKS22Rules11_-6437749606486164285.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_ServerBannerS22",
+    "file": "media/img_ServerBannerS22_-6092289989709585817.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 1024,
+    "height": 148,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_iconKVKS22Rules7",
+    "file": "media/img_iconKVKS22Rules7_-5742051683001692390.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_icon_KVKS22MiniMap_3_2",
+    "file": "media/img_icon_KVKS22MiniMap_3_2_-5392135856213339319.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_TopKVKBattlefieldInitiatedBG3",
+    "file": "media/img_TopKVKBattlefieldInitiatedBG3_-3848572636127332467.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 296,
+    "height": 128,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_icon_KVKS22MiniMap_1",
+    "file": "media/img_icon_KVKS22MiniMap_1_-3433254724387756711.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_iconKVKS22Rules10",
+    "file": "media/img_iconKVKS22Rules10_-3278617319500007683.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKOpeningBriefingBG2_R",
+    "file": "media/img_KVKOpeningBriefingBG2_R_-3107660747344880768.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 740,
+    "height": 456,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKOpeningBriefingBG1_R",
+    "file": "media/img_KVKOpeningBriefingBG1_R_-2862100279944117924.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 740,
+    "height": 456,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKScriptSelectionFlag_Icon2",
+    "file": "media/img_KVKScriptSelectionFlag_Icon2_-2853448126498061836.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 68,
+    "height": 68,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_Gradient_bg2",
+    "file": "media/img_Gradient_bg2_-2849900777708499551.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 712,
+    "height": 280,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_icon_KVKS22MiniMap_2_2",
+    "file": "media/img_icon_KVKS22MiniMap_2_2_-2563547894385915557.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKS4RulesBanner11",
+    "file": "media/img_KVKS4RulesBanner11_-2190179812028644508.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 820,
+    "height": 230,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_GVGEntrance10",
+    "file": "media/img_GVGEntrance10_-1800714632061757865.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 348,
+    "height": 320,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_TroopsManageStatusKVK22_01",
+    "file": "media/img_TroopsManageStatusKVK22_01_-138075193391893972.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 184,
+    "height": 148,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMapLegioVAlaudae_1",
+    "file": "media/img_KVKMiniMapLegioVAlaudae_1_-115987883363093571.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 36,
+    "height": 36,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMap3D_S22_light",
+    "file": "media/img_KVKMiniMap3D_S22_light_154930781793707115.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 640,
+    "height": 440,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_ServerBanner22_2",
+    "file": "media/img_ServerBanner22_2_766105680751026412.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 820,
+    "height": 230,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMapLegioX",
+    "file": "media/img_KVKMiniMapLegioX_810597114921589883.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 192,
+    "height": 192,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_MapUIAltarPopUpHolyLand_icon",
+    "file": "media/img_MapUIAltarPopUpHolyLand_icon_1298947293149435317.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 68,
+    "height": 72,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMapLegioVAlaudae",
+    "file": "media/img_KVKMiniMapLegioVAlaudae_1468964182756825955.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 192,
+    "height": 192,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKOpeningBriefingBG1_L",
+    "file": "media/img_KVKOpeningBriefingBG1_L_2104483302842305166.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 740,
+    "height": 456,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMapLegioXIII",
+    "file": "media/img_KVKMiniMapLegioXIII_3371805981810397480.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 192,
+    "height": 192,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKScriptSelectionFlag_Bg2",
+    "file": "media/img_KVKScriptSelectionFlag_Bg2_3565081049881556608.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 296,
+    "height": 60,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_iconAlliBuilding4",
+    "file": "media/img_iconAlliBuilding4_3693152598573593778.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 136,
+    "height": 116,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_iconKVKS22Rules12",
+    "file": "media/img_iconKVKS22Rules12_4724426359567000253.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_TopKVKBattlefieldInitiatedBG2",
+    "file": "media/img_TopKVKBattlefieldInitiatedBG2_4895428049044908619.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 296,
+    "height": 128,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_S22IconLegioVIII",
+    "file": "media/img_S22IconLegioVIII_4895805065100799164.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 28,
+    "height": 28,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMapLegioVIII",
+    "file": "media/img_KVKMiniMapLegioVIII_5088079776307993971.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 192,
+    "height": 192,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_TopKVKMainPage_Reward",
+    "file": "media/img_TopKVKMainPage_Reward_5550310412703620102.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 100,
+    "height": 100,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_icon_KVKS22MiniMap_1_2",
+    "file": "media/img_icon_KVKS22MiniMap_1_2_5879067052302199076.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_iconKVKS22Rules8",
+    "file": "media/img_iconKVKS22Rules8_5917401606061779195.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 220,
+    "height": 220,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_iconAlliBuilding3",
+    "file": "media/img_iconAlliBuilding3_7397795747075513167.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 104,
+    "height": 98,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMap3D_S22",
+    "file": "media/img_KVKMiniMap3D_S22_7415721036322452156.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 640,
+    "height": 440,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_S22IconLegioVAlaudae",
+    "file": "media/img_S22IconLegioVAlaudae_7552250912844917398.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 28,
+    "height": 28,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_icon_KVKS22MiniMap_3",
+    "file": "media/img_icon_KVKS22MiniMap_3_7629127560299480625.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKs22CareerPopuTalentSelect_Video1_cn",
+    "file": "media/img_KVKs22CareerPopuTalentSelect_Video1_cn_7661421049208125937.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 1024,
+    "height": 576,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKOpeningBriefingBG2_L",
+    "file": "media/img_KVKOpeningBriefingBG2_L_7812782665391228493.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 740,
+    "height": 456,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_icon_KVKS22MiniMap_4",
+    "file": "media/img_icon_KVKS22MiniMap_4_7958588920677301850.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKs22CareerPopuTalentSelect_Video1",
+    "file": "media/img_KVKs22CareerPopuTalentSelect_Video1_8586134530787604548.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 1024,
+    "height": 576,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_icon_KVKS22MiniMap_2",
+    "file": "media/img_icon_KVKS22MiniMap_2_8615084410528344822.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMapLegioXIII_1",
+    "file": "media/img_KVKMiniMapLegioXIII_1_8637198963473303249.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 36,
+    "height": 36,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_KVKMiniMapLegioVIII_1",
+    "file": "media/img_KVKMiniMapLegioVIII_1_8780408092956337487.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 36,
+    "height": 36,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_icon_KVKS22MiniMap_4_2",
+    "file": "media/img_icon_KVKS22MiniMap_4_2_8889959626345373918.png",
+    "bundle": "ui_texture_kvk_1114.lb",
+    "width": 300,
+    "height": 300,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "KVKChooseScriptBG22",
+    "file": "media/KVKChooseScriptBG22_-8251567638323121561.png",
+    "bundle": "ui_texture_kvkchoosescript_1114.lb",
+    "width": 316,
+    "height": 556,
+    "type": "Sprite",
+    "category": "S22 / KvK"
+  },
+  {
+    "name": "img_LGIMSkinPopUpBg12",
+    "file": "media/img_LGIMSkinPopUpBg12_-7747585368304982497.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 616,
+    "height": 692,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_chat_ShopSkin_11",
+    "file": "media/img_chat_ShopSkin_11_-7474505050186356985.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 128,
+    "height": 128,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_Share_PVPSkin_09R",
+    "file": "media/img_Share_PVPSkin_09R_-7110640798036886790.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 466,
+    "height": 256,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_Share_PVPSkin_08R",
+    "file": "media/img_Share_PVPSkin_08R_-5620196597999569213.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 466,
+    "height": 256,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_LGIMSkinPopUpBg13",
+    "file": "media/img_LGIMSkinPopUpBg13_-3592921844875742241.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 616,
+    "height": 692,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_Share_PVPSkin_09L",
+    "file": "media/img_Share_PVPSkin_09L_-3304563989257396475.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 466,
+    "height": 256,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_Share_PVPSkin_09Ra",
+    "file": "media/img_Share_PVPSkin_09Ra_-2156346035438911664.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 466,
+    "height": 256,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_chat_ChangeColorYuanyijingDeco4",
+    "file": "media/img_chat_ChangeColorYuanyijingDeco4_157601284137867260.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 176,
+    "height": 176,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_LGIMPreviewSkin12",
+    "file": "media/img_LGIMPreviewSkin12_664452533098838009.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 1024,
+    "height": 576,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_Share_PVPSkin_08L",
+    "file": "media/img_Share_PVPSkin_08L_2212876156947343878.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 466,
+    "height": 256,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_chat_ChangeColorYuanyijingDeco3",
+    "file": "media/img_chat_ChangeColorYuanyijingDeco3_2504769120646565153.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 368,
+    "height": 332,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_chat_ShopSkin_12",
+    "file": "media/img_chat_ShopSkin_12_3078100801750393741.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 128,
+    "height": 128,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_chat_ChangeColorCharlieMattDeco1",
+    "file": "media/img_chat_ChangeColorCharlieMattDeco1_4260327937294932406.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 116,
+    "height": 124,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_LGIMPreviewSkin13",
+    "file": "media/img_LGIMPreviewSkin13_5631180780225834356.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 1024,
+    "height": 576,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_chat_ChangeColorCharlieMattDeco3",
+    "file": "media/img_chat_ChangeColorCharlieMattDeco3_6465320956444120032.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 288,
+    "height": 352,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_chat_ChangeColorCharlieMattDeco2",
+    "file": "media/img_chat_ChangeColorCharlieMattDeco2_6626414775761344372.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 184,
+    "height": 284,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_chat_ChangeColorYuanyijingDeco1",
+    "file": "media/img_chat_ChangeColorYuanyijingDeco1_7089553805400004749.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 348,
+    "height": 344,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_Share_PVPSkin_10L",
+    "file": "media/img_Share_PVPSkin_10L_7924578843555946225.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 466,
+    "height": 256,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_chat_ChangeColorYuanyijingDeco2",
+    "file": "media/img_chat_ChangeColorYuanyijingDeco2_8526354424196864079.png",
+    "bundle": "ui_texture_legouim_1114.lb",
+    "width": 368,
+    "height": 484,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_btn_readall_2",
+    "file": "media/img_btn_readall_2_7101639818866037293.png",
+    "bundle": "ui_texture_mail_1114.lb",
+    "width": 48,
+    "height": 48,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_MapWars_Massilia01_05_glow",
+    "file": "media/img_MapWars_Massilia01_05_glow_-9129665621991956351.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 136,
+    "height": 148,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_13_glow",
+    "file": "media/img_MapWars_Massilia01_13_glow_-8629566175382071534.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 184,
+    "height": 128,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_11_glow",
+    "file": "media/img_MapWars_Massilia02_11_glow_-8274264511063729281.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 212,
+    "height": 132,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_07_glow",
+    "file": "media/img_MapWars_Massilia02_07_glow_-8249277796762630829.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 184,
+    "height": 128,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_16_glow",
+    "file": "media/img_MapWars_Massilia01_16_glow_-7886040424895187759.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 106,
+    "height": 176,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_02_glow",
+    "file": "media/img_MapWars_Massilia01_02_glow_-7692014057290340404.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 156,
+    "height": 184,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_21_glow",
+    "file": "media/img_MapWars_Massilia02_21_glow_-7268659631695044240.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 196,
+    "height": 120,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_09_glow",
+    "file": "media/img_MapWars_Massilia01_09_glow_-7011508618519319758.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 140,
+    "height": 232,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_RomeMapWarsBG1",
+    "file": "media/img_RomeMapWarsBG1_-6866745330491123418.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 832,
+    "height": 1024,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_11_glow",
+    "file": "media/img_MapWars_Massilia01_11_glow_-6633851000464651726.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 180,
+    "height": 98,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_21_glow",
+    "file": "media/img_MapWars_Massilia01_21_glow_-6603924364954361675.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 240,
+    "height": 128,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_17_glow",
+    "file": "media/img_MapWars_Massilia02_17_glow_-6508789343436846464.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 232,
+    "height": 152,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_19_glow",
+    "file": "media/img_MapWars_Massilia01_19_glow_-6367518854524876018.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 260,
+    "height": 216,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_14_glow",
+    "file": "media/img_MapWars_Massilia01_14_glow_-6359872027744704531.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 192,
+    "height": 106,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_08_glow",
+    "file": "media/img_MapWars_Massilia02_08_glow_-5473121650897740542.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 156,
+    "height": 172,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_RomeMapWarsFlag2",
+    "file": "media/img_RomeMapWarsFlag2_-5084953803425744020.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 160,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_widget_number_skill_Bg",
+    "file": "media/img_MapWars_widget_number_skill_Bg_-5023103506064758481.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 56,
+    "height": 60,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia_01_bg",
+    "file": "media/img_MapWars_Massilia_01_bg_-4323965684610547395.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 628,
+    "height": 348,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_07_glow",
+    "file": "media/img_MapWars_Massilia01_07_glow_-3604083315553612090.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 98,
+    "height": 148,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_15_glow",
+    "file": "media/img_MapWars_Massilia02_15_glow_-3171770702602951532.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 196,
+    "height": 124,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_22_glow",
+    "file": "media/img_MapWars_Massilia02_22_glow_-3025412322425515568.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 168,
+    "height": 116,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_13_glow",
+    "file": "media/img_MapWars_Massilia02_13_glow_-2812788532035744041.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 252,
+    "height": 128,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_20_glow",
+    "file": "media/img_MapWars_Massilia02_20_glow_-2715663810284376069.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 156,
+    "height": 188,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_RomeMapWarsBG2",
+    "file": "media/img_RomeMapWarsBG2_-2546481271610610787.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 832,
+    "height": 1024,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_15_glow",
+    "file": "media/img_MapWars_Massilia01_15_glow_-2395117927463013539.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 256,
+    "height": 136,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_RomeMapWarsFlag1",
+    "file": "media/img_RomeMapWarsFlag1_-2310038024609577119.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 160,
+    "height": 220,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_18_glow",
+    "file": "media/img_MapWars_Massilia02_18_glow_-2159550842927502985.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 152,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_06_glow",
+    "file": "media/img_MapWars_Massilia01_06_glow_-2023896877499654318.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 140,
+    "height": 148,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_18_glow",
+    "file": "media/img_MapWars_Massilia01_18_glow_-1912320015482390312.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 252,
+    "height": 168,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia_02_bg",
+    "file": "media/img_MapWars_Massilia_02_bg_-1863944194430560878.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 572,
+    "height": 360,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_03_glow",
+    "file": "media/img_MapWars_Massilia01_03_glow_-1763899506857287844.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 188,
+    "height": 88,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_08_glow",
+    "file": "media/img_MapWars_Massilia01_08_glow_-1136314963184160470.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 284,
+    "height": 116,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_22_glow",
+    "file": "media/img_MapWars_Massilia01_22_glow_-658287359903092054.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 160,
+    "height": 88,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_14_glow",
+    "file": "media/img_MapWars_Massilia02_14_glow_-8119960820703503.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 236,
+    "height": 192,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_12_glow",
+    "file": "media/img_MapWars_Massilia01_12_glow_553154270703686545.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 104,
+    "height": 180,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia_02_deco",
+    "file": "media/img_MapWars_Massilia_02_deco_748495523992050077.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 500,
+    "height": 244,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_10_glow",
+    "file": "media/img_MapWars_Massilia01_10_glow_1242426486749316193.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 204,
+    "height": 116,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_05_glow",
+    "file": "media/img_MapWars_Massilia02_05_glow_1835303769171960864.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 216,
+    "height": 144,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_02_glow",
+    "file": "media/img_MapWars_Massilia02_02_glow_2112260877962290334.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 152,
+    "height": 168,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_09_glow",
+    "file": "media/img_MapWars_Massilia02_09_glow_2423258873396753190.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 180,
+    "height": 160,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_10_glow",
+    "file": "media/img_MapWars_Massilia02_10_glow_2494203004795062653.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 152,
+    "height": 108,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_19_glow",
+    "file": "media/img_MapWars_Massilia02_19_glow_2883813419710881578.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 276,
+    "height": 100,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_23_glow",
+    "file": "media/img_MapWars_Massilia02_23_glow_3054341747177748697.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 208,
+    "height": 152,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_01_glow",
+    "file": "media/img_MapWars_Massilia02_01_glow_3636590898329998383.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 280,
+    "height": 316,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_17_glow",
+    "file": "media/img_MapWars_Massilia01_17_glow_3707940843391522678.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 196,
+    "height": 152,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_20_glow",
+    "file": "media/img_MapWars_Massilia01_20_glow_3778512040272433024.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 168,
+    "height": 140,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_16_glow",
+    "file": "media/img_MapWars_Massilia02_16_glow_4117520425664577919.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 192,
+    "height": 144,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_mapWars_skill_icon_8",
+    "file": "media/img_mapWars_skill_icon_8_4121518597706895416.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 80,
+    "height": 80,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_03_glow",
+    "file": "media/img_MapWars_Massilia02_03_glow_4198513450026052669.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 184,
+    "height": 152,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_icon_mapWar_mark_icon_6",
+    "file": "media/img_icon_mapWar_mark_icon_6_4311845676641222935.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 24,
+    "height": 28,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_12_glow",
+    "file": "media/img_MapWars_Massilia02_12_glow_4920622402179486756.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 264,
+    "height": 156,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_23_glow",
+    "file": "media/img_MapWars_Massilia01_23_glow_5595652282505691201.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 144,
+    "height": 88,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_01_glow",
+    "file": "media/img_MapWars_Massilia01_01_glow_5940866370217016682.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 276,
+    "height": 88,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_24_glow",
+    "file": "media/img_MapWars_Massilia02_24_glow_6551164791837568901.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 148,
+    "height": 136,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWarsSkillSelect_flag_Rome",
+    "file": "media/img_MapWarsSkillSelect_flag_Rome_6553353453364601335.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 560,
+    "height": 940,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_04_glow",
+    "file": "media/img_MapWars_Massilia02_04_glow_7294898743884596522.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 160,
+    "height": 124,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_06_glow",
+    "file": "media/img_MapWars_Massilia02_06_glow_7336452727919922014.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 68,
+    "height": 184,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_icon_mapWar_tunnel",
+    "file": "media/img_icon_mapWar_tunnel_7532279371414340599.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 40,
+    "height": 40,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_icon_mapWar_mark_icon_5",
+    "file": "media/img_icon_mapWar_mark_icon_5_8132028571343054255.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 24,
+    "height": 28,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_04_glow",
+    "file": "media/img_MapWars_Massilia01_04_glow_8738321417611532114.png",
+    "bundle": "ui_texture_mapwars_1114.lb",
+    "width": 132,
+    "height": 172,
+    "type": "Sprite",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MigrateResourcesBG2",
+    "file": "media/img_MigrateResourcesBG2_-5632504467219138875.png",
+    "bundle": "ui_texture_migrate_1114.lb",
+    "width": 155,
+    "height": 33,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_MigrateResourcesBG1",
+    "file": "media/img_MigrateResourcesBG1_4079567978586329360.png",
+    "bundle": "ui_texture_migrate_1114.lb",
+    "width": 80,
+    "height": 61,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_MigrateResourcesDelete",
+    "file": "media/img_MigrateResourcesDelete_4667580830327519218.png",
+    "bundle": "ui_texture_migrate_1114.lb",
+    "width": 40,
+    "height": 44,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroMuseumItem_58",
+    "file": "media/img_HeroMuseumItem_58_-5803144652405417596.png",
+    "bundle": "ui_texture_museum_1114.lb",
+    "width": 400,
+    "height": 400,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroMuseumItem_56",
+    "file": "media/img_HeroMuseumItem_56_-4674975092380489925.png",
+    "bundle": "ui_texture_museum_1114.lb",
+    "width": 400,
+    "height": 400,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroMuseumItem_57",
+    "file": "media/img_HeroMuseumItem_57_-4626517463990541241.png",
+    "bundle": "ui_texture_museum_1114.lb",
+    "width": 400,
+    "height": 400,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_HeroMuseumItem_59",
+    "file": "media/img_HeroMuseumItem_59_8073632450183853296.png",
+    "bundle": "ui_texture_museum_1114.lb",
+    "width": 400,
+    "height": 400,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_NameboardDeco234b",
+    "file": "media/img_NameboardDeco234b_-5473589581791436071.png",
+    "bundle": "ui_texture_nameboard_1114.lb",
+    "width": 160,
+    "height": 136,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_NameboardDeco234a",
+    "file": "media/img_NameboardDeco234a_-990544709813914139.png",
+    "bundle": "ui_texture_nameboard_1114.lb",
+    "width": 160,
+    "height": 136,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_NameboardDeco235b",
+    "file": "media/img_NameboardDeco235b_3770127983381894274.png",
+    "bundle": "ui_texture_nameboard_1114.lb",
+    "width": 160,
+    "height": 136,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CitySkinNameBoardBG_234",
+    "file": "media/img_CitySkinNameBoardBG_234_5509048880449294611.png",
+    "bundle": "ui_texture_nameboard_1114.lb",
+    "width": 200,
+    "height": 100,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_CitySkinNameBoardBG_235",
+    "file": "media/img_CitySkinNameBoardBG_235_6936718641917883113.png",
+    "bundle": "ui_texture_nameboard_1114.lb",
+    "width": 200,
+    "height": 100,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_NameboardDeco235a",
+    "file": "media/img_NameboardDeco235a_8549026207077627849.png",
+    "bundle": "ui_texture_nameboard_1114.lb",
+    "width": 160,
+    "height": 136,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_StoryRoleTalkNewHead36",
+    "file": "media/img_StoryRoleTalkNewHead36_-7794052708642955713.png",
+    "bundle": "ui_texture_storyconversation_1114.lb",
+    "width": 396,
+    "height": 352,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_11_WarBG_S_1",
+    "file": "media/img_SVIP_11_WarBG_S_1_-9051815248555977969.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 260,
+    "height": 152,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_12_Arrow_Right",
+    "file": "media/img_SVIP_12_Arrow_Right_-7674527332413057507.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 124,
+    "height": 64,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_12_RallyListBG_1",
+    "file": "media/img_SVIP_12_RallyListBG_1_-6787360872339198720.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 640,
+    "height": 360,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_11_RallyListBG_2",
+    "file": "media/img_SVIP_11_RallyListBG_2_-5617244770499399992.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 640,
+    "height": 360,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_12_RallyListBG_2",
+    "file": "media/img_SVIP_12_RallyListBG_2_-5034456003786799550.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 640,
+    "height": 360,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_13_Arrow_Right",
+    "file": "media/img_SVIP_13_Arrow_Right_-4774321924922605594.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 124,
+    "height": 60,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_13_Arrow_Left",
+    "file": "media/img_SVIP_13_Arrow_Left_-3844401766615775714.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 124,
+    "height": 60,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_13_WarBG_S_1",
+    "file": "media/img_SVIP_13_WarBG_S_1_-3728507384826482086.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 260,
+    "height": 152,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_11_RallyListBG_1",
+    "file": "media/img_SVIP_11_RallyListBG_1_-3726550420552355374.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 640,
+    "height": 360,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_12_WarBG_S_1",
+    "file": "media/img_SVIP_12_WarBG_S_1_-1555387347727430441.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 260,
+    "height": 152,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_13_RallyListBG_1",
+    "file": "media/img_SVIP_13_RallyListBG_1_399740725613199887.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 640,
+    "height": 360,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_12_Arrow_Left",
+    "file": "media/img_SVIP_12_Arrow_Left_929616891464140933.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 124,
+    "height": 60,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_11_Arrow_Right",
+    "file": "media/img_SVIP_11_Arrow_Right_5019919553518127635.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 124,
+    "height": 64,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_13_RallyListBG_2",
+    "file": "media/img_SVIP_13_RallyListBG_2_5783207290423103177.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 640,
+    "height": 360,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_SVIP_11_Arrow_Left",
+    "file": "media/img_SVIP_11_Arrow_Left_6613905080057875351.png",
+    "bundle": "ui_texture_svip_1114.lb",
+    "width": 124,
+    "height": 60,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_WorldTrendInset40",
+    "file": "media/img_WorldTrendInset40_-3790727846505468274.png",
+    "bundle": "ui_texture_worldtrend_1113.lb",
+    "width": 380,
+    "height": 280,
+    "type": "Sprite",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_Charles_hammer_anim",
+    "file": "media/Emoji_Charles_hammer_anim_1078_79302555220643028.png",
+    "bundle": "emoji_1114.lb",
+    "width": 512,
+    "height": 256,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_Charles_laugh_anim",
+    "file": "media/Emoji_Charles_laugh_anim_64549_-5283253116296855786.png",
+    "bundle": "emoji_1114.lb",
+    "width": 512,
+    "height": 256,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_sunwu_anxiety_anim",
+    "file": "media/Emoji_sunwu_anxiety_anim_108265_8809418204796882425.png",
+    "bundle": "emoji_1114.lb",
+    "width": 512,
+    "height": 256,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_yuanyijin_snore_anim",
+    "file": "media/Emoji_yuanyijin_snore_anim_156186_-5508037367576449424.png",
+    "bundle": "emoji_1114.lb",
+    "width": 512,
+    "height": 256,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Emoji_yuanyijin_tea_anim",
+    "file": "media/Emoji_yuanyijin_tea_anim_217570_369784762763812381.png",
+    "bundle": "emoji_1114.lb",
+    "width": 512,
+    "height": 256,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "UISprite",
+    "file": "media/UISprite_86011_4164811731462459212.png",
+    "bundle": "prefabs_ui_panel_1114.lb",
+    "width": 32,
+    "height": 32,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "UISprite",
+    "file": "media/UISprite_155411_4164811731462459212.png",
+    "bundle": "prefabs_ui_panel_1114.lb",
+    "width": 32,
+    "height": 32,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Background",
+    "file": "media/Background_155411_6476450905087086412.png",
+    "bundle": "prefabs_ui_panel_1114.lb",
+    "width": 32,
+    "height": 32,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "UIMask",
+    "file": "media/UIMask_184331_-7598044945395019956.png",
+    "bundle": "prefabs_ui_panel_1114.lb",
+    "width": 32,
+    "height": 32,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "UISprite",
+    "file": "media/UISprite_184331_4164811731462459212.png",
+    "bundle": "prefabs_ui_panel_1114.lb",
+    "width": 32,
+    "height": 32,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "Background",
+    "file": "media/Background_184331_6476450905087086412.png",
+    "bundle": "prefabs_ui_panel_1114.lb",
+    "width": 32,
+    "height": 32,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "AvatarFrame_271",
+    "file": "media/AvatarFrame_271_190342_8939982170929828487.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 1024,
+    "height": 512,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "UISprite",
+    "file": "media/UISprite_300720_4164811731462459212.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 32,
+    "height": 32,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "img_MapWars_Massilia01_04",
+    "file": "media/img_MapWars_Massilia01_04_666756_-8735364293519376692.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 132,
+    "height": 172,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_08",
+    "file": "media/img_MapWars_Massilia01_08_666756_-6210919035834741451.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 284,
+    "height": 116,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_03",
+    "file": "media/img_MapWars_Massilia01_03_666756_-5927911175739272985.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 188,
+    "height": 88,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_17",
+    "file": "media/img_MapWars_Massilia01_17_666756_-5486151798284891645.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 196,
+    "height": 152,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_11",
+    "file": "media/img_MapWars_Massilia01_11_666756_-4520275448044346622.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 180,
+    "height": 98,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_09",
+    "file": "media/img_MapWars_Massilia01_09_666756_-2204543034310326568.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 140,
+    "height": 232,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_18",
+    "file": "media/img_MapWars_Massilia01_18_666756_-2067446127977800443.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 252,
+    "height": 168,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_07",
+    "file": "media/img_MapWars_Massilia01_07_666756_-1637882748358851721.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 98,
+    "height": 148,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_16",
+    "file": "media/img_MapWars_Massilia01_16_666756_537272843220613004.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 106,
+    "height": 176,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_20",
+    "file": "media/img_MapWars_Massilia01_20_666756_918668264238558093.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 168,
+    "height": 140,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_23",
+    "file": "media/img_MapWars_Massilia01_23_666756_1664945613424293014.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 144,
+    "height": 88,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_22",
+    "file": "media/img_MapWars_Massilia01_22_666756_2236628177261856163.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 160,
+    "height": 88,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_14",
+    "file": "media/img_MapWars_Massilia01_14_666756_2358960439099207242.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 192,
+    "height": 106,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_21",
+    "file": "media/img_MapWars_Massilia01_21_666756_2466986497133984784.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 240,
+    "height": 128,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_06",
+    "file": "media/img_MapWars_Massilia01_06_666756_3019990266209052841.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 140,
+    "height": 148,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_02",
+    "file": "media/img_MapWars_Massilia01_02_666756_3934364410229250873.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 156,
+    "height": 184,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_19",
+    "file": "media/img_MapWars_Massilia01_19_666756_5283138318020858327.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 260,
+    "height": 216,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_05",
+    "file": "media/img_MapWars_Massilia01_05_666756_5424365158628228337.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 136,
+    "height": 148,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_12",
+    "file": "media/img_MapWars_Massilia01_12_666756_7103131845648683029.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 104,
+    "height": 180,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_10",
+    "file": "media/img_MapWars_Massilia01_10_666756_7406936843483964270.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 204,
+    "height": 116,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_15",
+    "file": "media/img_MapWars_Massilia01_15_666756_8213643247555631159.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 256,
+    "height": 136,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_13",
+    "file": "media/img_MapWars_Massilia01_13_666756_8721945120886975128.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 184,
+    "height": 128,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia01_01",
+    "file": "media/img_MapWars_Massilia01_01_666756_9173968184662501277.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 276,
+    "height": 88,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_04",
+    "file": "media/img_MapWars_Massilia02_04_910272_-8688135014332705582.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 160,
+    "height": 124,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_06",
+    "file": "media/img_MapWars_Massilia02_06_910272_-8035244492972469244.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 68,
+    "height": 184,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_20",
+    "file": "media/img_MapWars_Massilia02_20_910272_-7947671668988215027.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 156,
+    "height": 188,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_08",
+    "file": "media/img_MapWars_Massilia02_08_910272_-7527612772355770033.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 156,
+    "height": 172,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_03",
+    "file": "media/img_MapWars_Massilia02_03_910272_-5246296508992662720.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 184,
+    "height": 152,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_21",
+    "file": "media/img_MapWars_Massilia02_21_910272_-4711591666458720238.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 196,
+    "height": 120,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_11",
+    "file": "media/img_MapWars_Massilia02_11_910272_-3873958851563351400.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 212,
+    "height": 132,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_19",
+    "file": "media/img_MapWars_Massilia02_19_910272_-3280616533848749547.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 276,
+    "height": 100,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_15",
+    "file": "media/img_MapWars_Massilia02_15_910272_-1782364140040773681.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 196,
+    "height": 124,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_12",
+    "file": "media/img_MapWars_Massilia02_12_910272_-1677750188731109549.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 264,
+    "height": 156,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_22",
+    "file": "media/img_MapWars_Massilia02_22_910272_-925792837733495514.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 168,
+    "height": 116,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_18",
+    "file": "media/img_MapWars_Massilia02_18_910272_382336270757144766.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 152,
+    "height": 108,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_09",
+    "file": "media/img_MapWars_Massilia02_09_910272_2048127942491865643.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 180,
+    "height": 160,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_23",
+    "file": "media/img_MapWars_Massilia02_23_910272_3464365359125455799.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 208,
+    "height": 152,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_16",
+    "file": "media/img_MapWars_Massilia02_16_910272_4381826127795235052.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 192,
+    "height": 144,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_24",
+    "file": "media/img_MapWars_Massilia02_24_910272_4397890614448513982.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 148,
+    "height": 136,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_02",
+    "file": "media/img_MapWars_Massilia02_02_910272_4439307375738667278.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 152,
+    "height": 168,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_05",
+    "file": "media/img_MapWars_Massilia02_05_910272_4535082560369283376.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 216,
+    "height": 144,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_17",
+    "file": "media/img_MapWars_Massilia02_17_910272_4957711621056321180.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 232,
+    "height": 152,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_13",
+    "file": "media/img_MapWars_Massilia02_13_910272_7687136495332133284.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 252,
+    "height": 128,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_10",
+    "file": "media/img_MapWars_Massilia02_10_910272_7804850138707598177.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 152,
+    "height": 108,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_14",
+    "file": "media/img_MapWars_Massilia02_14_910272_7933897502726289503.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 236,
+    "height": 192,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_01",
+    "file": "media/img_MapWars_Massilia02_01_910272_8012427815106110985.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 280,
+    "height": 316,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "img_MapWars_Massilia02_07",
+    "file": "media/img_MapWars_Massilia02_07_910272_9080626344189612331.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 184,
+    "height": 128,
+    "type": "Texture2D",
+    "category": "Chronicles of Rome"
+  },
+  {
+    "name": "UISprite",
+    "file": "media/UISprite_1168699_4164811731462459212.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 32,
+    "height": 32,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  },
+  {
+    "name": "tex_ui_items_hk30_07_fxMask",
+    "file": "media/tex_ui_items_hk30_07_fxMask_1182469_-3079460661837193269.png",
+    "bundle": "prefabs_ui_template_1114.lb",
+    "width": 264,
+    "height": 40,
+    "type": "Texture2D",
+    "category": "Other patch graphics"
+  }
+]

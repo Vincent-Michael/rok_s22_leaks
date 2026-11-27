@@ -1,0 +1,489 @@
+﻿Status,Key,Old,New
+NEW,CITY_MAINCITY_TITLE,,Forum
+NEW,CITY_MAINCITY_DESC,,A forum is a structure of utmost significance for any Civitas. Its fate will decide that of the latter.
+NEW,CITY_MAINCITY_INFO,,"The towering Forum is the foundation of a Civitas. The alliance that successfully destroys it captures the entire Civitas.
+
+◆ <b>Declaring War</b>
+1. When alliance territory is connected to Civitas territory during Peace or Preparation, officers with permissions may declare war on the Civitas.
+2. Declaring war on a Small Civitas costs <color=#379f1f>{p1} War Decrees</color>, and declaring war on a Large Civitas costs <color=#379f1f>{p2} War Decrees</color>.
+3. An alliance can only declare war on 1 Civitas at a time. Multiple alliances can declare war on the same Civitas.
+4. During periods of Peace, a Civitas enters Preparation immediately if war is declared on it. After Preparation ends, the Civitas will enter Contention.
+
+◆ <b>Contention</b>
+1. During the Contention period, Civitas buildings can only be attacked by alliances that previously declared war on the Civitas. Small Civitates have a Contention period of <color=#379f1f>{p3}</color> hours, and Large Civitates have a Contention period of <color=#379f1f>{p4}</color> hours. Alliances cannot switch coalitions during Contention.
+2. During the Contention period, Forums can only be attacked after the Civitas gate is destroyed. When a Civitas's Forum is destroyed, the alliance of the troop that dealt the finishing blow will immediately capture the Civitas. The Civitas will enter Armistice after.
+3. If the Forum is still standing by the time the Contention period ends, then the siege is considered to have failed. The Civitas will immediately enter Armistice. Alliances must redeclare war after Armistice ends to attack the Civitas again.
+
+◆ <b>Armistice</b>
+1. When a Civitas enters the Armistice period, destroyed gates will immediately recover some Durability and restore passage restrictions that prevent troops outside of the occupying alliance from entering. The Forum will also immediately recover some Durability.
+2. During Armistice, other alliances cannot declare war on the Civitas, and its buildings cannot be attacked.
+3. Small Civitates have an Armistice period of <color=#379f1f>{p5} minutes</color>, and Large Civitates have an Armistice period of <color=#379f1f>{p6} minutes</color>. If the Civitas' occupation status changes, the current Armistice period will be extended by <color=#379f1f>{p7} minutes</color>.
+
+◆ <b>Civitas Occupation</b>
+During Armistice and Peace, the occupying alliance of a Civitas can build Teleporters, Aquilas, and other functional buildings to help prepare against siege."
+NEW,CITY_DOOR_TITLE,,Gate
+NEW,CITY_DOOR_DESC,,"A heavy gate that safeguards the civitas's vital entry points. It is both a tough barrier against enemies, as well as a structure of heavy contention between warring camps."
+NEW,CITY_DOOR_INFO,,"The Civitas gate holds key passage for entry. Destroy it and attacking troops will be able to gain access.
+
+1. When the gate's status is normal, only troops of the occupying alliance can enter the Civitas, though all troops can exit without issue.
+2. When the gate's Durability is reduced to 0, it becomes destroyed and all troops can enter the Civitas through it.
+3. When a gate is destroyed, any functional building behind it immediately becomes inactive.
+4. When Civitates enters Armistice, destroyed gates will immediately return to normal, and only troops of the occupying alliance can enter again.
+5. Only gates can serve as a the starting point of alliance territory and connect to alliance flags."
+NEW,CITY_WALL_TITLE,,Wall
+NEW,CITY_WALL_DESC,,"Long, winding walls around the Civitas safeguard its civilization within."
+NEW,CITY_WALL_INFO,,"The wall is a Civitas's bulwark against siege. Troops that scale walls can receive combat buffs.
+
+1. All troops on walls can receive wall buffs, regardless of alliance affiliation.
+2. Troops of the attacking side can scale walls using ladders.
+3. Ranged troops in Civitates can only attack troops outside when they're on walls."
+NEW,CITY_WALL_BUFF_NAME_1,,Siege Breaker
+NEW,CITY_WALL_BUFF_NAME_2,,Pierced Skies
+NEW,CITY_WALL_BUFF_NAME_3,,Sharpened Blades
+NEW,CITY_WALL_BUFF_DESC_1,,"When troops are in ranged mode on the wall, they gain {p1}% attack range."
+NEW,CITY_WALL_BUFF_DESC_2,,"When troops are on the wall, they deal {p1}% more damage."
+NEW,CITY_WALL_BUFF_DESC_3,,"When troops are on the wall, they deal {p1}% more damage against other troops on the wall."
+NEW,CITY_BUFF_BUILDING_TITLE_1,,Steadfast Aquila
+NEW,CITY_BUFF_BUILDING_TITLE_2,,Triumphant Aquila
+NEW,CITY_BUFF_BUILDING_TITLE_3,,Flying Aquila
+NEW,CITY_BUFF_BUILDING_DESC_1,,All troops of the occupying coalition suffer 5% less severe wounds in the Civitas
+NEW,CITY_BUFF_BUILDING_DESC_2,,All troops of the occupying coalition deal 15% more damage in the Civitas
+NEW,CITY_BUFF_BUILDING_DESC_3,,All troops of the occupying coalition gain 15% March Speed in the Civitas
+NEW,CITY_BUFF_BUILDING_INFO_1,,"The Aquila stands tall within the city despite the chaos of surrounding war. Symbolizes an unflinching promise to hold the lines and protect one's allies.
+
+1. Aquilas can provide buffs to the occupying coalition of a Civitas.
+2. When an Aquila becomes inactive, it can no longer provide buffs."
+NEW,CITY_BUFF_BUILDING_BUFF_TITLE_1,,Hardened Will
+NEW,CITY_BUFF_BUILDING_BUFF_TITLE_2,,Peerless Might
+NEW,CITY_BUFF_BUILDING_BUFF_TITLE_3,,Second Wind
+NEW,CITY_BUFF_BUILDING_BUFF_DESC_1,,Troops suffer less severe wounds
+NEW,CITY_BUFF_BUILDING_BUFF_DESC_2,,Troops deal more damage
+NEW,CITY_BUFF_BUILDING_BUFF_DESC_3,,Troops gain March Speed
+NEW,CITY_TP_TITLE,,Teleporter
+NEW,CITY_TP_DESC,,Allows troops to be dispatched into the Civitas
+NEW,CITY_TP_INFO,,"Teleporters are important functional buildings in the Civitas that can quickly provide battle reinforcements.
+
+1. A Civitas's occupying coalition can send troops into the Civitas via Teleporters. There is no limit on how many troops can be sent at once.
+2. Only troops inside governor cities can be sent through Teleporters. Troops on the map cannot.
+3. Troops inside the Civitas can return to their respective cities through the Teleporter.
+4. When a Teleporter becomes inactive, it can no longer teleport troops.
+5. After a Teleporter becomes inactive or is destroyed, troops sent through this Teleporter will march towards their city when routed.
+6. When a Teleporter belongs to a neutral side, troops from that side can send reinforcements to the battlefield through the Teleporter."
+NEW,CITY_DECLARATION_CONFIRM,,"Are you sure you want to declare war against this Civitas? Doing so will cause the Civitas to enter a Preparation period that lasts for {p1} minutes. After Preparation ends, you may immediately launch attacks against it."
+NEW,CITY_DECLARATION_RESOURCE,,War Decree
+NEW,CITY_DECLARATION_COUNTDOWN,,Preparation Ends In: {p1}
+NEW,CITY_ATTACK_COUNTDOWN,,Contention Ends In: {p1}
+NEW,CITY_TIME_1,,Peace
+NEW,CITY_TIME_2,,Preparation: {p1}
+NEW,CITY_TIME_3,,Contention: {p1}
+NEW,CITY_TIME_4,,Armistice: {p1}
+NEW,CITY_DECLARATION,,Declare War
+NEW,CITY_FUNCTION,,Buffs
+NEW,LADDER_POP_TITLE,,Siege Equipment
+NEW,CITY_POP_TITLE,,Civitas Buildings
+NEW,CITY_LADDER_TITLE,,Ladder
+NEW,CITY_LADDER_DESC,,Brave warriors scale these walls to forge new battlegrounds.
+NEW,CITY_LADDER_INFO,,"Even the sturdiest walls can be breached.
+
+1. After Contention begins, the attacking alliance can build ladders on alliance territory adjacent to the Civitas it declared war on. Each alliance can have up to {p1} ladders at a time.
+2. Ladders can only be placed at designated ladder locations. Troops on ladders will be able to scale walls.
+3. Each ladder can hold up to {p2} troops at a time.
+4. When a ladder is successfully placed at a ladder location, all troops on the ladder will simultaneously climb on top of the wall. Any subsequent troops on the ladder will require {p3} seconds to reach the wall.
+5. When a ladder's Durability is reduced to 0, it becomes destroyed. You must wait {p4} minutes after a ladder is destroyed to rebuild one."
+NEW,CITY_LADDER_MEMBER,,Current Troops: {p1}
+NEW,CITY_LADDER_BUILD,,Build
+NEW,CITY_LADDER_EXPAND,,Being Placed: {p1}
+NEW,ALLIANCE_CITY_LIST_NAME,,Civitates
+NEW,ALLIANCE_CITY_LIST_DESC,,Capture civitates and expand your reach to claim victory in the Roman civil war!
+NEW,CITY_NAME_1,,Sutrium
+NEW,CITY_NAME_2,,Nomentum
+NEW,CITY_NAME_3,,Tibur
+NEW,CITY_NAME_4,,Ostia
+NEW,CITY_NAME_5,,Praeneste
+NEW,CITY_NAME_6,,Lavinium
+NEW,CITY_NAME_7,,Aricia
+NEW,CITY_NAME_8,,Tusculum
+NEW,CITY_INFO,,Civitates are important strategic strongholds on the map. You can build various functional buildings in captured Civitates to reinforce their defenses against invading enemies.
+NEW,ALLIANCE_LADDER_LIST_NAME,,Ladder
+NEW,ALLIANCE_LADDER_LIST_DESC,,"Ladders are important tools used to scale defensive civitates in siege battles. Alliances can build ladders and place them in designated locations outside civitas walls. Troops can then scale the walls directly, providing opportunities for a successful siege."
+NEW,ALLIANCE_LADDER_NAME,,Ladder {p1}
+NEW,S22_TALENT_TYPE1,,Siege
+NEW,S22_TALENT_TYPE2,,Field
+NEW,S22_TALENT_TYPE3,,Development
+NEW,S22_TALENT_NAME1,,Keeping Peace
+NEW,S22_TALENT_NAME2,,Wall Razer
+NEW,S22_TALENT_NAME3,,Hold the Line
+NEW,S22_TALENT_NAME4,,Armored Assault
+NEW,S22_TALENT_NAME5,,Advancing Aquila
+NEW,S22_TALENT_NAME6,,Siege & Counter
+NEW,S22_TALENT_NAME7,,Weathered Troops
+NEW,S22_TALENT_NAME8,,Quick Retreat
+NEW,S22_TALENT_NAME9,,Seize & Conquer
+NEW,S22_TALENT_NAME10,,Unfading Oath
+NEW,S22_TALENT_NAME11,,Tight Pursuit
+NEW,S22_TALENT_NAME12,,Warrior's Spirit
+NEW,S22_TALENT_NAME13,,No Return
+NEW,S22_TALENT_NAME14,,Counter Strike
+NEW,S22_TALENT_NAME15,,Delayed Success
+NEW,S22_TALENT_NAME16,,Healing Touch
+NEW,S22_TALENT_NAME17,,Booming Gains
+NEW,S22_TALENT_NAME18,,Field Medic
+NEW,S22_TALENT_NAME19,,Fort Breacher
+NEW,S22_TALENT_NAME20,,Swift Soar
+NEW,S22_TALENT_NAME21,,Glorious Return
+NEW,S22_TALENT_DES1,,Damage to Barbarians +{p1}%.
+NEW,S22_TALENT_DES2,,Enemy building and siege equipment Durability Reduction Speed <b>+{p1}%</b>.
+NEW,S22_TALENT_DES3,,Damage taken while fighting on walls <b>-{p1}%</b>.
+NEW,S22_TALENT_DES4,,Damage taken while reducing enemy building Durability <b>-{p1}%</b>.
+NEW,S22_TALENT_DES5,,"Damage dealt while fighting in Civitates <b>+{p1}%</b>, and <b>+{p2}%</b> extra while in ranged mode."
+NEW,S22_TALENT_DES6,,"While reducing enemy building and siege equipment Durability, counterattack damage <b>+{p1}%</b>."
+NEW,S22_TALENT_DES7,,"While fighting in Civitates, field damage <b>+{p2}%</b> for every {p1} Barbarian units killed (for up to <b>{p3}%</b>).
+(Obtained buffs will continue to take effect after this strategy is reset)"
+NEW,S22_TALENT_DES8,,Routed troop March Speed <b>+{p1}%</b>.
+NEW,S22_TALENT_DES9,,"Severely wounding or killing enemy units will earn you rewards, including resource items. You can earn up to {p1} of each type of resource per day."
+NEW,S22_TALENT_DES10,,"Damage taken <b>-{p1}%</b> for field troops, but <b>{p2}%</b> of severely wounded units will immediately die."
+NEW,S22_TALENT_DES11,,Every normal attack launched has a <b>{p1}%</b> chance to <b>-{p2}%</b> March Speed for the target troop. This effect can stack up to 3 times and lasts 3 seconds.
+NEW,S22_TALENT_DES12,,"Damage dealt <b>+{p2}%</b> for every {p1} killed Tier 5 troops recorded in the Hall of Heroes, for up to <b>{p3}%</b>."
+NEW,S22_TALENT_DES13,,"Every normal attack launched has a <b>{p1}%</b> chance to cause the target troop to enter a 3-second frenzy, during which they cannot enter cities."
+NEW,S22_TALENT_DES14,,"For every <b>{p1}</b> severely wounded units you own, counterattack damage on the map <b>+{p2}%</b>, for up to <b>{p3}%</b>. This effect lasts 3 hours and its duration resets whenever it gains another stack."
+NEW,S22_TALENT_DES15,,"Gathering Speed <b>-{p1}%</b>, but Gathered Resources <b>+{p2}%</b> (not applicable to Gem Deposits)."
+NEW,S22_TALENT_DES16,,Reduces resource cost of healing units by {p1}%. You can save up to {p2} resources this way per Season.
+NEW,S22_TALENT_DES17,,Gain an additional <b>{p1}%</b> of resources when Gathering ends (not applicable to Gem Deposits).
+NEW,S22_TALENT_DES18,,Hospital Capacity <b>+{p1}%</b>.
+NEW,S22_TALENT_DES19,,"For each Barbarian Fort you destroy, Troop March Speed <b>+{p1}%</b>, for up to <b>{p2}%</b>. Resets every Monday.
+(Obtained buffs will continue to take effect after this strategy is reset)"
+NEW,S22_TALENT_DES20,,Troop March Speed <b>+{p1}%</b>.
+NEW,S22_TALENT_DES21,,Increases the proportion of units resurrected by the Hall of Heroes at the end of the season by {p1}%.
+NEW,S22_TALENT_CONTENT1,,"Progress: {p1}
+Current Gain: <b>{p2}%</b>"
+NEW,S22_TALENT_CONTENT2,,Current Buffs:
+NEW,S22_TALENT_CONTENT3,,Season Gains:
+NEW,S22_TALENT_CONTENT4,,Season Reduction: {p1}
+NEW,S22_TALENT_CONTENT5,,Earn This Week: {p1}
+NEW,S22_TALENT_RESET_TIPS,,Reset Strategies? You'll get all your Strategy Points back to choose new ones.
+NEW,S22_TALENT_INFO,,"The Aquila soars as Legions clash. The fate of Rome shall hence be decided.
+In this season, you can use Strategies to bolster your conquest. Adapt to the shifting tides of the battlefield and deploy Strategies accordingly, and you shall emerge victorious.
+
+1. The Strategies of this season are divided into three branches: Siege, Field, and Development. Each branch has 4 levels: <b>Basic</b>, <b>Intermediate,</b> <b>Advanced,</b> and <b>Ultimate</b>. Within the same branch, you must adopt low-level strategies before moving onto higher-level ones.
+2. You can only choose <b>one</b> Strategy from each level within the same branch.
+3. Different Strategies cost different amounts of Strategy Points to adopt. Basic Strategies cost <b>1</b>, Intermediate Strategies cost <b>2</b>, Advanced Strategies cost <b>3</b>, and Ultimate Strategies cost <b>4</b> Strategy Points.
+4. Strategies can be reset at the cost of a small amount of Crystals. You are encouraged to explore various strategy combinations.
+5. In the March of the Legions seasonal story, you can earn up to <b>16</b> Strategy Points: 12 from the Lost Kingdom Chronicles and the rest from Crusader Achievements and the Midseason Review event.
+6. All Strategies are only available in this Lost Kingdom."
+NEW,FUN_PROCESS_S22_NAME1,,Rome Opens
+NEW,LOSTLAND_SEASON_TITLE_22,,March of the Legions
+NEW,SIGN_RULE_PAGE1_KEY6,,Civitas Battles
+NEW,SIGN_RULE_PAGE1_KEY6_D,,"""I came, I saw, I conquered.""
+
+In this season, you will lead your forces in Civitas siege battles. Make your way over high walls to enter these cities, and let the blood bath begin. May Jove's Aquila serve as witness as they fall under your relentless attacks!"
+NEW,SIGN_RULE_PAGE1_KEY7,,Knot of Serpentine Fate
+NEW,SIGN_RULE_PAGE1_KEY7_D,,"The Knot of Serpentine Fate unlocks at a certain point in the Lost Kingdom Chronicles, and all governors can obtain this artifact. If Prime Julius Caesar or Prime Cleopatra VII has this artifact equipped and is serving as secondary commander, the artifact will take effect."
+NEW,SIGN_RULE_PAGE5_KEY9,,Legion X: Equestris
+NEW,SIGN_RULE_PAGE5_KEY9_D,,Caesar's most trusted elites. Capable of crushing enemy ranks with bull-like might.
+NEW,SIGN_RULE_PAGE5_KEY10,,Legion XIII: Gemina
+NEW,SIGN_RULE_PAGE5_KEY10_D,,Levied since early days. The lion symbol is an apt reflection of its mighty courage.
+NEW,SIGN_RULE_PAGE5_KEY11,,Legion VIII: Augusta
+NEW,SIGN_RULE_PAGE5_KEY11_D,,"A legion of hardened veterans. The shield protects our own, and the blade destroys our enemies."
+NEW,SIGN_RULE_PAGE5_KEY12,,Legion V: Alaudae
+NEW,SIGN_RULE_PAGE5_KEY12_D,,Brave warriors of Gaul who once defeated the war elephants at Thapsus without fear.
+NEW,SIGN_RULE_PAGE1_KEY8_D,,"The new Seasonal Strategies offer 3 branches with unique characteristics. Explore various strategies to find the ones most suited to your combat style.
+
+The battlefields of Rome are everchanging and require your swift and capable judgement. Switch strategies accordingly to take advantage of fleeting opportunities and shift the tides of war!"
+NEW,S22_RULE_PAGE1_TIPS,,"The die is cast, and Rome is engulfed in the flames of civil war. Allies who once stood alongside the Legion's eagle now raise their blades against it, as vows of the past shatter beneath the roar of battle drums.
+From the city's high walls to its winding alleys, every inch of Rome must be conquered with blood. Fight along with trusted allies, make use of talented commanders, and switch between offensive and defensive tactics. Let cities welcome their new rulers amid the unceasing waves of conquest.
+The path of conquest ends with Rome. This ancient city shall become your final battleground, and the Legion's blade the final judge of victory.
+When the dust settles and the Eagle finds its mark, who shall command the fate of Rome in the name of Caesar?"
+NEW,SIGN_PIONEER_QA_Q_S22_1,,"Why bring in a ""Pioneer"" system?"
+NEW,SIGN_PIONEER_QA_Q_S22_2,,What are the sorts of things we'll get to see in this story?
+NEW,SIGN_PIONEER_QA_Q_S22_3,,What is the schedule of this new story?
+NEW,SIGN_PIONEER_QA_Q_S22_4,,Where can I give suggestions or feedback?
+NEW,SIGN_PIONEER_QA_Q_S22_5,,Will I receive a special reward for taking part?
+NEW,SIGN_PIONEER_QA_A_S22_1,,"Though the core content of this story is now complete, as part of a new Season there may be some areas that require urgent improvement. We are hoping to use this as an opportunity for governors to get a sneak peek, to collect feedback, and provide a more enjoyable story. This Pioneer experience is planned to be an infrequent event."
+NEW,SIGN_PIONEER_QA_A_S22_2,,"In the March of the Legions story, you can experience siege battles in cities of Rome (Civitates), as well as new Seasonal Strategies.
+Civitates: In this season, lead your troops across the map to conquer one Civitas after another. Scale city walls with ladders, and work with or against other governors to fight for control of each Civitas.
+Strategies: A new strategy system is available for this season. Select different strategies as you progress through the season to speed up your efforts."
+NEW,SIGN_PIONEER_QA_A_S22_3,,"In the March of the Legions story, the battle schedule will be roughly as follows (the specific days are subject to change and are only for reference): On day 9, governors from different camps will meet each other for the first time. On day 27, all camps will begin intense siege battles over Civitates. On day 29, the final battle for the King's Land and the capture of Rome will begin."
+NEW,SIGN_PIONEER_QA_A_S22_4,,You can share any thoughts or issues with us by going to Settings -> Customer Support. We pay close attention to all feedback we receive and will send you an in-game reward afterwards.
+NEW,SIGN_PIONEER_QA_A_S22_5,,"Governors who take part in the newest story will be eligible for basic Pioneer rewards and participation rewards, in addition to regular story rewards."
+NEW,MAPBUILDING_S22_CITY1,,Level 1 Small Civitas
+NEW,MAPBUILDING_S22_CITY2,,Level 2 Small Civitas
+NEW,MAPBUILDING_S22_CITY3,,Level 3 Large Civitas
+NEW,MAPBUILDING_S22_CITY4,,Level 4 Large Civitas
+NEW,MAPBUILDING_S22_WALL,,Gate
+NEW,MAPBUILDING_S22_WALL_D,,"A heavy gate that safeguards the civitas's vital entry points. It is both a tough barrier against enemies, as well as a structure of heavy contention between warring camps.
+
+1. To declare war on a Civitas, the declaring side's alliance territory must be connected to a Civitas gate.
+2. When a Civitas gate is still intact, troops outside of the occupying coalition cannot enter through it.
+3. After destroying a Civitas gate, all troops will be able to enter through it.
+4. A gate's durability has no bearing on its occupation status. Whoever captures the Civitas will occupy its gate. "
+NEW,MAPBUILDING_S22_CITY_D,,"The towering wall is a haven for the bustling cultures within, but also a target for ambitious conquerors. When the Legion's eagles arrive, the city's fate shall be rewritten in blood.
+
+<b>Declaration and Contention</b>
+1. To declare war on a Civitas, the declaring side's alliance territory must be connected to a Civitas gate. After war is declared, the Civitas will enter a 5-minute Preparation period (shortened to 1 minute if the Civitas is occupied by Barbarians). During Preparation, any alliances that declare war on the Civitas will participate in its subsequent contention.
+2. Declaration Points are required to declare war. Declaration Points are held independently by each alliance and naturally recover over time.
+3. The Contention period lasts 1 hour for Small Civitates and 2 hours for Large Civitates.
+4. Only by destroying a Civitas's Forum can you successfully capture it. If the declaring side fails to destroy the Forum during Contention, all buildings in the Civitas will recover 15% Durability.
+5. The declaring side's troops can enter the Civitas after destroying its gate, or enter by making use of ladders.
+
+<b>Ladders</b>
+1. The declaring side can spend alliance resources to build ladders (maximum 4). The cooldown after each construction is 15 minutes.
+2. Placing ladders at designated ladder locations near walls will allow troops to scale walls directly.
+3. Ladders can be attacked and will be destroyed when Durability reaches 0.
+
+<b>Other</b>
+1. After a Civitas has been captured, Teleporters and other buff-providing buildings can be built in specific locations. You may choose to build them according to your needs.
+2. After an alliance captures a Civitas, the Civitas is considered as alliance territory and troops will have access to their alliance technology buffs when fighting in it."
+NEW,CITY_WALL_BUFF_DESC_4,,"After troops scale walls with ladders, each attack reduces {p1}% more Durability. This effect can remain active for {p2} seconds after troops leave walls."
+NEW,CITY_PVE_BAR_KILL,,Kills: {p1}
+NEW,S22_TUTORIAL_TECH_01,,"After conquering Gaul, Caesar leads his troops to the Rubicon river.
+A letter from the Senate had just arrived at camp."
+NEW,S22_TUTORIAL_TECH_02,,"{p1}, you're here just in time. Let us hear what those aristocrats from the Senate have to offer."
+NEW,S22_TUTORIAL_TECH_03,,"
+<size=26>... And thus we order you to dismiss your legions, surrender your command, and return alone to Rome.</size>
+
+<size=26>Resist, and you shall be deemed an enemy of the state.</size>"
+NEW,S22_TUTORIAL_TECH_04,,"So they seek to turn against me? Rome's hero, now made a traitor?"
+NEW,S22_TUTORIAL_TECH_05,,"Then let the die be cast. A civil war is inevitable. Cross the Rubicon now, and march into Rome!"
+NEW,S22_TUTORIAL_TECH_06,,We will capture the city that lies at the heart of the republic!
+NEW,S22_TUTORIAL_TECH_07,,Let those who sit comfortably in their high towers pay for their arrogance.
+NEW,S22_TUTORIAL_TECH_08,,"But to reach Rome, we must eliminate obstacles on the way."
+NEW,S22_TUTORIAL_TECH_09,,This Civitas guards a key passageway to Rome. We must seize it for ourselves!
+NEW,S22_TUTORIAL_TECH_10,,Occupying the Civitas allows us to gain footing for a direct attack.
+NEW,S22_TUTORIAL_TECH_11,,"The walls are sturdy, and the gates can easily guard against siege. They seem to have set up quite the defense."
+NEW,S22_TUTORIAL_TECH_12,,"Yet high walls repel only cowards, not soldiers of the Legion."
+NEW,S22_TUTORIAL_TECH_13,,"Scale these walls with ladders, and their gates shall pose no threat."
+NEW,S22_TUTORIAL_TECH_14,,Ready the ladders against the wall. May Jove's eagle soar high above it!
+NEW,S22_TUTORIAL_TECH_15,,"For each Civitas we capture, the impenetrable Rome will have one less line of defense."
+NEW,S22_TUTORIAL_TECH_16,,"The Civitates ahead too, shall be mine!"
+NEW,S22_TUTORIAL_TECH_17,,"{p1}, it is time. Rally your troops and prepare to march!"
+NEW,S22_TUTORIAL_TECH_18,,Let the Senate carry on their squabbles. I shall return to Rome in triumph.
+NEW,S22_TUTORIAL_TECH_19,,Rome shall bow to me—and us!
+NEW,CITY_DECLARATION_RESOURCE_DESC,,"1. Gathering from normal resource points within alliance territory will earn resources for your alliance.
+2. Alliance resource points within alliance territory will continually produce resources for the alliance.
+3. Alliance help, alliance technology donations, and alliance building construction will all grant a significant amount of alliance credits.
+4. Alliance storage capacity can be increased by researching certain alliance technologies.
+5. War Decrees are essential items for declaring war on Civitates. They recover at a rate of {p1} per hour."
+NEW,CITY_PVE_BAR_DESC,,"Defeat the barbarians and take back the Civitas!
+
+1. Attacking a Civitas captured by Barbarians will not cost Action Points.
+2. When a Civitas is being contended, garrisoned Barbarians will automatically attack any approaching troops.
+3. When Barbarian troops start attacking, the Teleporter within the Civitas will send reinforcements.
+4. When a Civitas is under periods of Peace or Armistice, you won't be able to attack Barbarian troops inside it."
+NEW,CITY_PVE_BAR_SKILL_NAME_1_1,,Constrain
+NEW,CITY_PVE_BAR_SKILL_DESC_1_1,,"If this troop IS NOT within melee range of its current target troop, this skill:
+- Deals ranged direct damage to the target troop (Damage Factor {p2}).
+- Reduces the target troop's March Speed by {s3}% for {p4} seconds.
+If this troop IS within melee range of its current target troop, this skill:
+- Deals ranged direct damage to the target troop (Damage Factor {p5}).
+- Reduces the target troop's Attack by {s6}% for {p7} seconds."
+NEW,CITY_PVE_BAR_SKILL_NAME_2_1,,Aggravate
+NEW,CITY_PVE_BAR_SKILL_DESC_2_1,,"If this troop IS NOT within melee range of its current target troop, this skill:
+- Deals ranged direct damage to the target troop (Damage Factor {p2}).
+- Reduces the target troop's March Speed by {s3}% for {p4} seconds.
+If this troop IS within melee range of its current target troop, this skill:
+- Deals ranged direct damage to the target troop (Damage Factor {p5}).
+- Reduces the target troop's Attack by {s6}% for {p7} seconds."
+NEW,CITY_PVE_BAR_SKILL_NAME_3_1,,Dismantle
+NEW,CITY_PVE_BAR_SKILL_DESC_3_1,,"If this troop IS NOT within melee range of its current target troop, this skill:
+- Deals ranged direct damage to the target troop (Damage Factor {p2}).
+- Reduces the target troop's March Speed by {s3}% for {p4} seconds.
+If this troop IS within melee range of its current target troop, this skill:
+- Deals ranged direct damage to the target troop (Damage Factor {p5}).
+- Reduces the target troop's Attack by {s6}% for {p7} seconds."
+NEW,CITY_PVE_BAR_SKILL_NAME_4_1,,Rile
+NEW,CITY_PVE_BAR_SKILL_DESC_4_1,,"If this troop IS NOT within melee range of its current target troop, this skill:
+- Deals ranged direct damage to the target troop (Damage Factor {p2}).
+- Reduces the target troop's March Speed by {s3}% for {p4} seconds.
+If this troop IS within melee range of its current target troop, this skill:
+- Deals ranged direct damage to the target troop (Damage Factor {p5}).
+- Reduces the target troop's Attack by {s6}% for {p7} seconds."
+NEW,CITY_PVE_BAR_SKILL_NAME_5_1,,Swipe
+NEW,CITY_PVE_BAR_SKILL_DESC_5_1,,Deals damage to all targets in a fan (Damage Factor {p2}).
+NEW,CITY_PVE_BAR_SKILL_NAME_5_2,,Bloodthirst
+NEW,CITY_PVE_BAR_SKILL_DESC_5_2,,The Bloodhunter gains a {s1}% bonus to skill damage dealt each time he uses a skill. This effect can stack.
+NEW,CITY_PVE_BAR_SKILL_NAME_5_3,,Last Stand
+NEW,CITY_PVE_BAR_SKILL_DESC_5_3,,"When the Bloodhunter's troop is reduced to {s1}% units, it gains a {s2}% bonus to damage dealt until the end of battle."
+NEW,CITY_PVE_BAR_SKILL_NAME_5_4,,Prolong
+NEW,CITY_PVE_BAR_SKILL_DESC_5_4,,The Bloodhunter's attacks have a {s1}% chance to recover {s2}% of his troop units.
+NEW,CITY_PVE_BAR_SKILL_NAME_6_1,,Reinforce
+NEW,CITY_PVE_BAR_SKILL_DESC_6_1,,The Tribemaster summons {p3} troops to aid him in battle. The Tribemaster is more powerful when summoned troops are on the battlefield.
+NEW,CITY_PVE_BAR_SKILL_NAME_6_2,,Summon
+NEW,CITY_PVE_BAR_SKILL_DESC_6_2,,"When troops summoned by the Tribemaster are on the battlefield, his troop gains {s1}% Defense."
+NEW,CITY_PVE_BAR_SKILL_NAME_6_3,,Might of Many
+NEW,CITY_PVE_BAR_SKILL_DESC_6_3,,"For every troop summoned on the battlefield, the Tribemaster gains {s1}% Attack."
+NEW,CITY_PVE_BAR_SKILL_NAME_6_4,,Attrition
+NEW,CITY_PVE_BAR_SKILL_DESC_6_4,,"After being in battle for {p1} seconds, the Tribemaster gains a {s2}% bonus to damage dealt until the end of battle."
+NEW,CITY_PVE_BAR_SKILL_NAME_7_1,,Rattle
+NEW,CITY_PVE_BAR_SKILL_DESC_7_1,,Deals damage to 3 random targets every second for {p3} seconds (Damage Factor {p2}).
+NEW,CITY_PVE_BAR_SKILL_NAME_7_2,,Bolster
+NEW,CITY_PVE_BAR_SKILL_DESC_7_2,,"Whenever the Gaul Plunderer uses a skill, she will summon creatures. While summons are on the battlefield, the Gaul Plunderer recovers {s1}% of units every second."
+NEW,CITY_PVE_BAR_SKILL_NAME_7_3,,Domination
+NEW,CITY_PVE_BAR_SKILL_DESC_7_3,,Deals damage to all nearby enemies every second (Damage Factor {p1}).
+NEW,CITY_PVE_BAR_SKILL_NAME_7_4,,Triumphant
+NEW,CITY_PVE_BAR_SKILL_DESC_7_4,,"Whenever the Gaul Plunderer defeats a troop, her troop recovers {s1}% of its units and gains a {s2}% bonus to damage dealt until the end of battle."
+NEW,CITY_PVE_BAR_SKILL_NAME_8_1,,Rupture
+NEW,CITY_PVE_BAR_SKILL_DESC_8_1,,"Deals direct damage to a target troop (Damage Factor {p2}). For each stack of Perforate the target has, it takes extra direct damage (Damage Factor {p3})."
+NEW,CITY_PVE_BAR_SKILL_NAME_8_2,,Puncture
+NEW,CITY_PVE_BAR_SKILL_DESC_8_2,,"Whenever this troop launches a basic attack, it inflicts 1 stack of Perforate on the target troop for {p1} seconds. Perforated troops take additional damage every second (Damage Factor {p2}). This effect can stack up to {p3} times, and its duration resets whenever it gains another stack."
+NEW,CITY_PVE_BAR_SKILL_NAME_9_1,,Surging Shot
+NEW,CITY_PVE_BAR_SKILL_DESC_9_1,,Deals direct damage to a target troop (Damage Factor {p2}).
+NEW,CITY_PVE_BAR_SKILL_NAME_9_2,,Scatter Shot
+NEW,CITY_PVE_BAR_SKILL_DESC_9_2,,"Whenever this troop launches a basic attack, it deals extra direct damage to all enemy troops in a fan (Damage Factor {p1}). This skill can trigger once every {p2} seconds."
+NEW,CITY_PVE_BAR_SKILL_NAME_9_3,,Flurry
+NEW,CITY_PVE_BAR_SKILL_DESC_9_3,,"For every enemy troop hit by Scatter Shot (excluding this troop's current target), this troop gains {s1}% Attack for {p2} seconds. This effect can stack up to {p3} times."
+NEW,CITY_PVE_BAR_SKILL_NAME_10_1,,Piercer
+NEW,CITY_PVE_BAR_SKILL_DESC_10_1,,Deals direct damage to a target troop (Damage Factor {p2}).
+NEW,CITY_PVE_BAR_SKILL_NAME_10_2,,Onslaught
+NEW,CITY_PVE_BAR_SKILL_DESC_10_2,,"Selects a random enemy troop. After a brief warning period, deals direct damage to the target and all enemy troops near it (Damage Factor {p1})."
+NEW,CITY_PVE_BAR_SKILL_NAME_11_1,,War Dance
+NEW,CITY_PVE_BAR_SKILL_DESC_11_1,,Up to {p2} nearby barbarian troops gain {s3}% Attack and {s4}% Defense for {p5} seconds.
+NEW,CITY_PVE_BAR_SKILL_NAME_11_2,,Tangle
+NEW,CITY_PVE_BAR_SKILL_DESC_11_2,,Deals direct damage to all nearby governor troops (Damage Factor {p1}) and Disarms them for {p2} seconds.
+NEW,CITY_PVE_BAR_SKILL_NAME_11_3,,Guts
+NEW,CITY_PVE_BAR_SKILL_DESC_11_3,,All nearby barbarian troops gain {s1}% Attack.
+NEW,CITY_PVE_BAR_SKILL_NAME_12_1,,Bludgeon
+NEW,CITY_PVE_BAR_SKILL_DESC_12_1,,Deals massive damage to the target (Damage Factor {p2}).
+NEW,CITY_PVE_BAR_SKILL_NAME_13_1,,Raid
+NEW,CITY_PVE_BAR_SKILL_DESC_13_1,,Deals massive damage to the target (Damage Factor {p2}).
+NEW,CITY_PVE_BAR_SKILL_NAME_14_1,,Bash
+NEW,CITY_PVE_BAR_SKILL_DESC_14_1,,Deals massive damage to the target (Damage Factor {p2}).
+NEW,CITY_PVE_BAR_SKILL_NAME_15_1,,Aid
+NEW,CITY_PVE_BAR_SKILL_DESC_15_1,,Heals the nearby allied troop with the lowest units remaining for {s2}% of its max units.
+NEW,CITY_PVE_BAR_SKILL_NAME_15_2,,Ally Protection
+NEW,CITY_PVE_BAR_SKILL_DESC_15_2,,"If a nearby allied troop has {s1}% or less units remaining, it takes {s2}% less damage. Up to {p3} allied troops can benefit from this effect at a time."
+NEW,CITY_PVE_BAR_SKILL_NAME_16_1,,Back at You
+NEW,CITY_PVE_BAR_SKILL_DESC_16_1,,Deals direct damage to a target troop (Damage Factor {p2}). This troop gains a {s3}% bonus to counterattack damage for {p4} seconds.
+NEW,CITY_PVE_BAR_SKILL_NAME_16_2,,Desperate Measures
+NEW,CITY_PVE_BAR_SKILL_DESC_16_2,,"When this troop drops to {s1}%, {s2}%, and {s3}% units remaining, it gains a damage-absorbing shield for {p4} seconds (Damage Factor {p5}). While the shield is active, counterattacks from this troop deal extra direct damage (Damage Factor {p6}). This skill can trigger once every {p7} seconds."
+NEW,CITY_PVE_BAR_SKILL_NAME_17_1,,Mounted Raid
+NEW,CITY_PVE_BAR_SKILL_DESC_17_1,,Deals direct damage to a target troop (Damage Factor {p2}).
+NEW,CITY_PVE_BAR_SKILL_NAME_18_1,,Tactical Ambush
+NEW,CITY_PVE_BAR_SKILL_DESC_18_1,,"Deals direct damage to a target troop based on the number of allied troops surrounding it (Damage Factor = {p2} + (Number of Troops x {p3}), up to {p4} troops counted)."
+NEW,CITY_PVE_BAR_SKILL_NAME_18_2,,Purge the Weak
+NEW,CITY_PVE_BAR_SKILL_DESC_18_2,,"Every {p1} seconds after entering combat, this troop switches targets to the enemy troop with the lowest units remaining. Whenever it switches targets, it gains {s2}% March Speed for {p3} seconds."
+NEW,CITY_PVE_BAR_SKILL_NAME_18_3,,Strength in Numbers
+NEW,CITY_PVE_BAR_SKILL_DESC_18_3,,"This troop gains Attack based on the number of allied troops surrounding its target (number of troops x {s1}%, up to {p2} troops counted)."
+NEW,CITY_WALL_BUFF_SOURCE,,Wall Buffs
+NEW,S22_PEAK_OCCUPY_DESC,,"Occupying certain neutral buildings in the Lost Kingdom will earn you occupation points. If you lose control of those buildings, you will lose occupation points. After the Lost Kingdom event ends, reoccupying lost buildings will not earn you any occupation points.
+
+Occupy 1 Crusader Camp:     <b>50</b> Occupation Points
+Occupy 1 Crusader Fortress                       <b>200</b> Occupation Points
+Occupy 1 Sanctuary                              <b>100</b> Occupation Points
+Occupy 1 Circle                              <b>150</b> Occupation Points
+Occupy 1 Small Civitas                              <b>100</b> Occupation Points
+Occupy 1 Large Civitas                              <b>200</b> Occupation Points
+Occupy Rome                                    <b>5000</b> Occupation Points"
+NEW,S22_EQUIP_MAIL_INFO,,"Greetings, governor. With the end of the Lost Kingdom Chronicles chapter ""{p1}"", you've received {p2}. May its legendary power aid you in conquering Rome!"
+NEW,CITY_BUIDING_REMOVE,,Platform
+NEW,SIGN_RULE_PAGE2_S22_KEY1,,Civitas
+NEW,SIGN_RULE_PAGE2_S22_KEY1_D,,"Civitates of various sizes can be found on the map. To successfully occupy a Civitas, the attacking side must breach its sturdy walls, destroy the Teleporter within, and finally capture the center Forum."
+NEW,SIGN_RULE_PAGE2_S22_KEY2,,Teleporter
+NEW,SIGN_RULE_PAGE2_S22_KEY2_D,,A Civitas building that allows the occupying coalition to directly dispatch defending troops through it. Destroying a Civitas' Teleporter is a crucial step towards capturing it.
+NEW,SIGN_RULE_PAGE2_S22_KEY3,,Ladder
+NEW,SIGN_RULE_PAGE2_S22_KEY3_D,,"The attacking side can build ladders to carry troops towards Civitas walls. After placing down ladders at designated ladders locations, carried troops can scale walls to begin their attack. The defending side must aim to quickly destroy ladders to delay attacks."
+NEW,SIGN_RULE_PAGE2_S22_KEY4,,Aquila
+NEW,SIGN_RULE_PAGE2_S22_KEY4_D,,"The occupying coalition of a Civitas can build Aquilas in designated locations within the Civitas. Different types of Aquilas can provide various buffs to the occupying coalition's troops, so their construction will prove useful against fending off enemy attacks."
+NEW,SIGN_RULE_PAGE2_S22_KEY5,,Rome
+NEW,SIGN_RULE_PAGE2_S22_KEY5_D,,"Founded on the banks of the Tiber, the city of Rome is the political center of the republic as well as a symbol of its glorious power. Capture Rome, and you shall control the fate of its future. Declare your ambitions against all the provinces and legions as you fight for supremacy."
+NEW,CITY_DECLARATION_RESOURCE_DESC1,,War Decrees are essential items for declaring war on Civitates. They recover at a rate of {p1} per hour and have a max storage of {p2}.
+NEW,S22_POPUP_1_TITLE,,Rome Occupied
+NEW,S22_POPUP_1_DESC,,{p1} has occupied Rome for the first time. A new age has arrived for the throne!
+NEW,S22_POPUP_2_TITLE,,Civitas Captured
+NEW,S22_POPUP_2_DESC,,Civitas {p1} has been captured by {p2}. This is a great victory worthy of celebration. The march on Rome continues!
+NEW,CITY_LADDER_IN,,Using ladder: {p1}
+NEW,SIGN_EARLY_ACCESS_QA_Q_S22_1,,Why offer early access?
+NEW,SIGN_EARLY_ACCESS_QA_A_S22_1,,"Although the core content of this story is now complete, as part of a new season there may be areas that still require improvement. With early access, we hope governors can get a sneak peek while providing us with feedback to create a more enjoyable story. Early access is planned to be an infrequent event."
+NEW,SIGN_EARLY_ACCESS_QA_A_S22_5,,"Governors who take part in the newest story will be eligible for early access rewards and participation rewards, in addition to regular story rewards."
+NEW,CONQUEST_MAPBUILDING_7_D_S22,,"Founded on the banks of the Tiber, the city of Rome is the political center of the republic as well as a symbol of its glorious power. Here, the Senate hold council, citizens gather in public, and generals walk the streets in triumph, returning with newfound glory for Rome.
+
+Capture Rome, and you shall control the fate of its future. Declare your ambitions against all the provinces and legions as you fight for supremacy.
+
+1. The city of Rome will open for contention every 3 days. During this period, all coalitions with active territory connected to Rome can attack it. Any coalition that can capture and hold Rome for 8 hours will gain control of it.
+2. The first commander (or captain of the rallied army) to occupy the city of Rome will become the defense captain responsible for repelling enemy attacks. If this commander is withdrawn, the commander with the highest power will automatically succeed the position.
+3. All units who are severely wounded during battles for Rome will die immediately (during battles with barbarians, all severely wounded units will be sent to the hospital)."
+NEW,SIGN_EARLY_ACCESS_QA_Q_S22_2,,What are the sorts of things we'll get to see in this story?
+NEW,SIGN_EARLY_ACCESS_QA_Q_S22_3,,What is the schedule of this new story?
+NEW,SIGN_EARLY_ACCESS_QA_Q_S22_4,,Where can I give suggestions or feedback?
+NEW,SIGN_EARLY_ACCESS_QA_Q_S22_5,,Will I receive a special reward for taking part?
+NEW,SIGN_EARLY_ACCESS_QA_A_S22_2,,"In the March of the Legions story, you can experience siege battles in cities of Rome (Civitates), as well as new Seasonal Strategies.
+Civitates: In this season, lead your troops across the map to conquer one Civitas after another. Scale city walls with ladders, and work with or against other governors to fight for control of each Civitas.
+Strategies: A new strategy system is available for this season. Select different strategies as you progress through the season to speed up your efforts."
+NEW,SIGN_EARLY_ACCESS_QA_A_S22_3,,"In the March of the Legions story, the battle schedule will be roughly as follows (the specific days are subject to change and are only for reference): On day 9, governors from different camps will meet each other for the first time. On day 27, all camps will begin intense siege battles over Civitates. On day 29, the final battle for the King's Land and the capture of Rome will begin."
+NEW,SIGN_EARLY_ACCESS_QA_A_S22_4,,You can share any thoughts or issues with us by going to Settings -> Customer Support. We pay close attention to all feedback we receive and will send you an in-game reward afterwards.
+NEW,CITY_LADDER_WALKING,,Moving
+NEW,CITY_DECLARATION_ALLIANCE,,Declaring Alliance
+NEW,FUN_PROCESS_S22_NAME2,,Level 4 Pass
+NEW,FUN_PROCESS_S22_NAME3,,Level 4 Large Civitas
+NEW,FUN_PROCESS_S22_NAME4,,Rome
+NEW,FUN_PROCESS_S22_NAME5,,City of Rome
+NEW,FUN_PROCESS_S22_NAME6,,Immigration
+CHANGED,CITY_WALL_BUFF_NAME_4, ,Sustained Combat
+CHANGED,CITY_PVE_BAR_REMAIN, ,Barbarians Left: {p1}
+CHANGED,CITY_LADDER_BUIDING_POS_NAME, ,Ladder Location
+CHANGED,CITY_LADDER_BUIDING_POS_DESC, ,Ladders can only be placed in designated ladder locations. Place down ladders to let your troops scale defensive walls.
+CHANGED,CITY_LADDER_BUIDING_POS_INFO, ,"Even the sturdiest walls can be breached.
+
+1. Ladders can only be placed at designated ladder locations. Troops on ladders will be able to scale walls.
+2. The ladder captain can command the ladder to march towards ladder locations. Once in position, the ladder will automatically begin placement."
+CHANGED,CITY_LADDER_BUIDING_POS_SUBDESC, ,This location has no ladder yet. Please build one first.
+CHANGED,CITY_TIME_ATTCK_1, ,Cannot be attacked during Peace
+CHANGED,CITY_TIME_ATTCK_2, ,Cannot be attacked during Preparation
+CHANGED,CITY_TIME_ATTCK_3, ,Cannot be attacked during Armistice
+CHANGED,CITY_TIME_DEFENDE_1, ,Civitates cannot be attacked by enemies during the Peace period.
+CHANGED,CITY_TIME_DEFENDE_2, ,War has been declared on your Civitas. Deploy defenses quickly!
+CHANGED,CITY_TIME_DEFENDE_3, ,The Civitas is currently being contended. Please deploy defenses.
+CHANGED,CITY_TIME_DEFENDE_4, ,Civitates cannot be attacked by enemies during the Armistice period.
+CHANGED,CITY_NAME_9, ,Cosa
+CHANGED,CITY_NAME_10, ,Tarquinii
+CHANGED,CITY_NAME_11, ,Reate
+CHANGED,CITY_NAME_12, ,Cures
+CHANGED,CITY_NAME_13, ,Velitrae
+CHANGED,CITY_NAME_14, ,Antium
+CHANGED,CITY_NAME_15, ,Ardea
+CHANGED,CITY_NAME_16, ,Castrum Inui
+CHANGED,CITY_NAME_17, ,Nepet
+CHANGED,CITY_NAME_18, ,Falerii Novi
+CHANGED,CITY_NAME_19, ,Anagnia
+CHANGED,CITY_NAME_20, ,Ferentinum
+CHANGED,CITY_NAME_21, ,Setia
+CHANGED,CITY_NAME_22, ,Tarracina
+CHANGED,CITY_NAME_23, ,Pyrgi
+CHANGED,CITY_NAME_24, ,Alsium
+CHANGED,ALLIANCE_LADDER_LIST_INFO, ,Alliances can build ladders after declaring war on a Civitas. Ladders will allow alliance troops to enter.
+CHANGED,CITY_BARPOP_OWNERSHIP, ,Barbarians
+CHANGED,CITY_PVE_BAR_NAME_1, ,Barbarian Engineer (Ranged)
+CHANGED,CITY_PVE_BAR_NAME_2, ,Barbarian Engineer (Ranged)
+CHANGED,CITY_PVE_BAR_NAME_3, ,Wall Engineer (Ranged)
+CHANGED,CITY_PVE_BAR_NAME_4, ,Wall Engineer (Ranged)
+CHANGED,CITY_PVE_BAR_NAME_5, ,Bloodhunter
+CHANGED,CITY_PVE_BAR_NAME_6, ,Tribemaster
+CHANGED,CITY_PVE_BAR_NAME_7, ,Gaul Plunderer
+CHANGED,CITY_PVE_BAR_NAME_8, ,Barbarian Fighter (Elite)
+CHANGED,CITY_PVE_BAR_NAME_9, ,Barbarian Fighter (Elite)
+CHANGED,CITY_PVE_BAR_NAME_10, ,Barbarian Fighter (Elite)
+CHANGED,CITY_PVE_BAR_NAME_11, ,Barbarian Fighter (Elite)
+CHANGED,CITY_PVE_BAR_NAME_12, ,Barbarian Fighter
+CHANGED,CITY_PVE_BAR_NAME_13, ,Barbarian Fighter
+CHANGED,CITY_PVE_BAR_NAME_14, ,Barbarian Fighter
+CHANGED,CITY_PVE_BAR_NAME_15, ,Barbarian Fighter (Elite)
+CHANGED,CITY_PVE_BAR_NAME_16, ,Barbarian Fighter (Elite)
+CHANGED,CITY_PVE_BAR_NAME_17, ,Barbarian Fighter (Elite)
+CHANGED,CITY_PVE_BAR_NAME_18, ,Barbarian Fighter (Elite)
+REMOVED,CITY_PVE_BAR_INFO_1, ,
+REMOVED,CITY_PVE_BAR_INFO_2, ,
+REMOVED,CITY_PVE_BAR_INFO_3, ,
+REMOVED,CITY_PVE_BAR_INFO_4, ,
+REMOVED,CITY_PVE_BAR_INFO_5, ,
+REMOVED,CITY_PVE_BAR_INFO_6, ,
+REMOVED,CITY_PVE_BAR_INFO_7, ,
+REMOVED,CITY_PVE_BAR_INFO_8, ,
+REMOVED,CITY_PVE_BAR_INFO_9, ,
+REMOVED,CITY_PVE_BAR_INFO_10, ,
+REMOVED,CITY_PVE_BAR_INFO_11, ,
+REMOVED,CITY_PVE_BAR_INFO_12, ,
+REMOVED,CITY_PVE_BAR_INFO_13, ,
+REMOVED,CITY_PVE_BAR_INFO_14, ,
+REMOVED,CITY_PVE_BAR_INFO_15, ,
+REMOVED,CITY_PVE_BAR_INFO_16, ,
+REMOVED,CITY_PVE_BAR_INFO_17, ,
+REMOVED,CITY_PVE_BAR_INFO_18, ,
