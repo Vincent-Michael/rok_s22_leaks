@@ -1,4 +1,4 @@
-# March of the Legions — S22 datamine guide v2.4
+# March of the Legions — S22 datamine guide v2.5
 
 Extract the entire ZIP and open index.html in a modern browser. Original PNG assets are local in media/. The full media library is retained in the ZIP for reference, but the general gallery is no longer displayed on the website. For GitHub Pages publish the complete folder contents (index.html, media/, data and supporting files) in the repository root. No network connection is required.
 
@@ -10,3 +10,5 @@ Version 2.2: all 21 resolved strategy descriptions and corrected branches/tiers 
 
 
 Version 2.4: six original S22 JSON exports (120 records total), 25 city/province/tile records, searchable city grid with configurable hypothetical 60×60 projection, original building and wall buff icons, and searchable raw configuration tables. Exact geographic positions, province boundaries, city levels and camp assignments remain unverified. The original map preview is unchanged.
+
+Version 2.5: interactive map reconstruction using the original colored/plain preview or a grid-only background; independent city, Rome, grid and label layers; searchable province filter, zoom, configurable grid dimensions, index base, orientation, offset and scale. The overlay is experimental; exact positions remain unknown. No pass or siege structure coordinates are invented. The original viewer, strategy planner and decoded tables are retained.
